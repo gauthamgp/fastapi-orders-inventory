@@ -1,0 +1,24 @@
+services:
+  - type: web
+    name: orders-inventory-api
+    runtime: python              # ← required (replaces the wrong `env: python`)
+    plan: free
+    region: frankfurt            # pick your nearest region
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "uvicorn app.main:app --host 0.0.0.0 --port $PORT"
+    envVars:
+      - key: DATABASE_URL
+        value: sqlite:////data/app.db
+      - key: PAYMENT_WEBHOOK_SECRET
+        sync: false              # set the secret value in Render dashboard
+      - key: WEBHOOK_MAX_SKEW_SECONDS
+        value: "300"
+      - key: PYTHONUNBUFFERED
+        value: "1"
+    healthCheckPath: /health
+    autoDeploy: true
+
+    disk:                        # persist SQLite between deploys/restarts
+      name: data
+      mountPath: /data
+      sizeGB: 1
