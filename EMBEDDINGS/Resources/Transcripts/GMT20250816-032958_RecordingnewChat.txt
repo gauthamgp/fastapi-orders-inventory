@@ -1,0 +1,778 @@
+00:00:22	Armaan Shaikh:	morning sir
+00:00:29	Challagundla Sreenivasulu:	Good Morning Sir
+00:00:33	Gopi Krishna Pujari:	Good morning sir
+00:00:34	manoj kumar:	GM
+00:00:38	Shilpi Agarwal:	Good morning
+00:00:46	Armaan Shaikh:	sir challenge mai maza aara hai
+00:00:48	roja c:	good morning sir
+00:00:48	Krishnapratap Vedula:	Good Morning Sir
+00:00:48	Sunil Kumar:	Good Morning Sudhanshu.
+00:00:55	Ganesh Sahu:	Very good morning Sir
+00:00:56	Kiran Muloor:	good morning
+00:00:57	manish dubey:	Good morning and Happy Independence day everyone
+00:01:05	Nitendra Tyagi:	good Morning Sir
+00:01:11	Ritesh Kumar:	Good Morning Sir
+00:01:12	Jubayer Hussain:	Good morning
+00:01:12	Krishna Aleti:	Good Morning sir, Agenda of this week?
+00:01:19	anoop p:	good morning sir
+00:01:28	Sandhya Jadhav:	Good Morning Sir
+00:01:35	Siddhartha Borpuzari:	Good morning
+00:01:44	Saiyam jain:	GM sir
+00:02:05	Jubayer Hussain:	Do we learn prompts writing or engineering
+00:02:06	Siddhartha Borpuzari:	What is stateless and stateful API system ?
+00:02:20	Abhrajit Pal:	Good Morning  every one
+00:02:54	Ajith chadaga:	Hello Sirji ,
+gm
+00:03:00	Pushkar Shiinde:	Hello sir Is there any gen ai course where you completed the same syllabus  and all recording are available like I have time so can use them
+00:03:01	Bhavesh S:	Good morning
+00:03:04	Amarendra Kushwaha:	good morning to all
+00:03:06	Sonu Kumar:	good morning sir
+00:03:16	Akash Yadav:	Good Morning SIr
+00:03:23	Vipin Vishal:	GM sir
+00:03:26	Rahul Pandey:	good morning sir
+00:03:28	Vijay Kumar:	Gm
+00:03:32	Nishit Hirpara:	Hello Sir,Good Morning,Does Deep Learning and NLP is require for this class as mention in roadmap?
+00:03:35	Devendra Yadav:	Good Morning Sir, A small question, how is Euri different from Perplexity ?
+00:03:54	Ranjit Batra:	Is there some thing wrong. You app prompt to register again
+00:04:19	Ranjit Batra:	No body pick up the phone from eurone
+00:04:27	Pranav Ranjan:	good morning
+00:04:27	Rajeev Dubey:	Good Morning Sir& Everyone
+00:04:41	Amir Khurshid:	good morning sir
+00:04:52	mukesh kumar:	Good morning sir.
+00:05:05	mukesh kumar:	mic testing pls.. :)
+00:05:13	Armaan Shaikh:	class start hone pr chat disable kr  dena please
+00:05:13	Shahid Raza:	Good Morning everyone!!!
+00:05:31	Ashiq S:	Good morning sir
+00:05:41	Ranjit Batra:	Can you write here your email address and phone
+00:05:43	manish dubey:	yes
+00:05:46	Joe Wilson:	yeah
+00:05:48	Sonu Kumar:	yes
+00:05:50	Challagundla Sreenivasulu:	yeah
+00:05:59	Satish K:	Good Morning Sir
+00:06:02	Vikash Kumar:	good morning sir
+00:06:48	GALI MALLIKARJUNA REDDY:	today agenda
+00:06:57	P Gautham Pai:	does EURI Api provides Tools adding functionality?
+00:07:12	Prodip Sarkar:	Vector database
+00:07:12	saurav lakra:	sir any update on hybrid batch?
+00:07:13	Ranjit Batra:	Can you go over chat and answer my questions
+00:07:13	Krishna Aleti:	Agenda of this week?
+00:07:22	P Gautham Pai:	does EURI Api provides Tools adding functionality?
+00:07:41	Vaibhav Yaramwar:	Could you please turn on chat only for Host
+00:08:11	manoj kumar:	I have done assignments..please can I know where to submit
+00:08:14	Armaan Shaikh:	only webhook part is remaining challenge was awesome
+00:08:19	Ranjit Batra:	
+Is there some thing wrong. You app prompt to register again
+00:08:37	saurav lakra:	sir any update on hybrid batch?
+00:08:39	P Gautham Pai:	does EURI Api provides Tools adding functionality?
+00:08:54	P Gautham Pai:	for agentic AI apps
+00:08:59	Chirag Anand:	do we have to submit the last assignment anywhere?
+00:09:31	P Gautham Pai:	does EURI Api provides Tools adding functionality for if we want to do agentic ai apps?
+00:09:45	Arunava Nag:	assignment has lot of concepts reqd more than what was taught in class as per API is concerned.. how to gather those skills ?
+00:09:55	Ranjit Batra:	
+Is there some thing wrong. You app prompt to register again
+00:10:05	Krishna Aleti:	Thank you
+00:11:38	Amarendra Kushwaha:	yes
+00:11:41	naresh kumar:	yes
+00:11:43	Syed Waquaruddin:	yes
+00:11:49	Rahul Pawar:	yes
+00:12:04	Amarendra Kushwaha:	fixed schema
+00:12:54	Amarendra Kushwaha:	radis
+00:14:30	Bhavesh S:	magnitude and direction = vector
+00:14:31	Saiyam jain:	yes
+00:14:32	naresh kumar:	yes
+00:14:33	Amarendra Kushwaha:	yes
+00:14:35	Joe Wilson:	yes
+00:14:36	Vaibhav Yaramwar:	Yes clear
+00:14:43	Lokesh Naidu:	clear sir
+00:15:45	Prabhakar Kumar:	is vector db is treated as RDBMS or cloud?
+00:16:18	Bhavesh S:	magnitude and direction = vector
+00:16:21	Amarendra Kushwaha:	list of scalar
+00:16:21	Prodip Sarkar:	Collection of number
+00:16:21	manish dubey:	why we can't we us  noe the existing
+00:16:24	archit Mehrotra:	that has magnitude and direction
+00:16:24	prabhat kumar:	having both magnitude and dir
+00:16:26	Pushkar Shiinde:	entity with value and direction
+00:16:27	Raj Dalsaniya:	vector who have direction
+00:16:29	Siddhartha Borpuzari:	both magnitude and direction
+00:16:30	Nishit Hirpara:	numeric representation of data
+00:16:30	Sachin Borgave:	numerical representation
+00:16:30	Vikash Kumar:	gives value and direction
+00:16:32	Raj Dalsaniya:	with value
+00:16:33	Mandar Aarondekar:	scalar with drection
+00:16:33	Supreeth S Shetty:	which has both maginutde and direction
+00:16:34	Rakesh Patil:	distance between two pints
+00:16:35	Sayan Basu:	Direction ad vaue
+00:16:35	Himanshu Dalai:	scalar with direction
+00:16:35	Asish Mohanty:	scaler and vector?
+00:16:37	Lokesh Naidu:	numerical data converting
+00:16:38	GALLA VENKAT:	it's has direction and magnetitude
+00:16:38	Anil M:	list of numbers
+00:16:38	Sayan Basu:	value
+00:16:39	Vikash Kumar:	its a list of number
+00:16:42	Pushkar Shiinde:	velocity
+00:16:43	Sachin Borgave:	To get similarity search
+00:16:45	Bhavesh S:	velocity
+00:16:46	SHASHANK Padelkar:	gives number of values
+00:16:48	Nitendra Tyagi:	arrow we used in math
+00:16:52	Vipin Vishal:	magnitude and a direction?
+00:16:53	Chirag Anand:	representation of data in numeric form in a dimensional model
+00:16:55	prabhat kumar:	matrix is vector
+00:16:55	P Gautham Pai:	numerical representaton
+00:16:55	Ganesh Sahu:	Almira like rack
+00:16:56	Mustafa Kamaal:	Which has a direction and magnitude
+00:16:56	Vikash Kumar:	list of array
+00:16:56	Saiyam jain:	a quantity that has both magnitude and direction
+00:16:56	BODHISATTVA DASH:	numerical representations
+00:16:57	Saranya Sittra:	numeric value of context window items
+00:16:59	Bhavesh S:	magnitude and direction = vector
+00:16:59	Joe Wilson:	convert into numerical values
+00:17:01	venkateshwar Rao Eturi:	A Vector has a direction and magnitude. I KG weight
+00:17:02	Ajith chadaga:	A vector is a simple way to store and compare information using numbers!
+00:17:03	saket kumar:	a set of numbers
+00:17:04	Deepak Jain:	it gives value and direction
+00:17:04	naresh kumar:	numerical representation of data
+00:17:05	Naji Aboo:	number array
+00:17:05	Ganesh Patil:	stored data based on indexing.
+00:17:05	Ashish singh:	magnitut and direction in pysics
+00:17:06	hemant gupta:	distance + direction ->
+00:17:07	sushmashree T:	distance and magnitude
+00:17:07	Lokesh Naidu:	madnitude and direction
+00:17:11	Pushkar Shiinde:	matrix h*b
+00:17:13	Venkatesh Akula:	arrow started from a point
+00:17:13	Samreen Nandgadi:	Direction n magnitude
+00:17:16	Rajesh Sharma:	collection of decimal or integer values
+00:17:16	Ranjit Batra:	dyanmic array
+00:17:19	Rahul Pawar:	value with direction
+00:17:19	GALI MALLIKARJUNA REDDY:	convert token into numerical value
+00:17:21	Anil M:	Vector is  a list
+00:17:23	sandeep saraf:	5 miles north
+00:17:24	NIHAL BAILUR:	way to describe “how much”
+00:17:25	Vaibhav Yaramwar:	Help to find relationship between features
+00:17:26	Swapnil Kale:	line from one position to other with weights
+00:17:29	archit Mehrotra:	vectors can be matrix
+00:17:31	Saranya Sittra:	numerical value of embeddings
+00:17:34	Prabhakar Kumar:	it is just quantity
+00:17:51	Amarendra Kushwaha:	1D array
+00:18:30	Himanshu Dalai:	set of numbers
+00:19:50	Bhavesh S:	multidimensional
+00:21:06	Prodip Sarkar:	maginitude
+00:21:46	Amarendra Kushwaha:	yes
+00:32:28	Amarendra Kushwaha:	yes
+00:32:28	Sharanya Manohar:	yes sir
+00:32:30	Vaibhav Yaramwar:	Yes clear
+00:32:30	Syed Waquaruddin:	yes
+00:32:31	GALI MALLIKARJUNA REDDY:	ss'
+00:32:33	Supreeth S Shetty:	yes sir...
+00:32:35	Ritesh Kumar:	Yes sir
+00:32:37	GALLA VENKAT:	yes sir
+00:32:37	Ashish singh:	yes
+00:32:40	Dr Girish Supekar:	yes
+00:32:42	SHASHANK Padelkar:	yes
+00:32:47	Lokesh Naidu:	clear
+00:32:49	Chirag Tyagi:	but we were doing kind of similarity searches in rdbms and nosql databases earlier as well for example using regex and like operators. Why specifically we thought of going to vector dbs?
+00:33:44	Prashant Rai:	what is hatching
+00:34:23	Sayan Basu:	Sir can you please change the chat setting to host and panelist only to avoid distraction Thanks
+00:34:40	Krishna Aleti:	Pls come again of this difference
+00:34:53	kartik mojhindru:	how different it is from sql server analysis service cubes?
+00:36:37	Amarendra Kushwaha:	based on k,q,v
+00:36:41	Arunava Nag:	1) distance calculation like clustering algos in ML ?
+
+2) what is the intuition once we move out of 2d plane in a vector representation?
+00:37:07	Vijay Kumar:	Yes
+00:38:08	Chirag Tyagi:	So to create Gen AI applications do we need to know ho to do all this maths? Or it is being taken care of under the hood when we use any Vector DB?
+00:38:41	saket kumar:	sir please disable the chat
+00:40:12	mukesh kumar:	sir, use other colour , not red
+00:41:52	Muhammad Arslan:	how  sir data convert into vector
+00:42:13	Lokesh Naidu:	why cos0 only using why not sin0 using? sir
+00:42:14	Amarendra Kushwaha:	using embedding tech
+00:42:50	Avinash Adsare:	S
+00:42:51	Amarendra Kushwaha:	yes
+00:42:53	Arunava Nag:	in this example , each vector MUST have same number of coordinates separated by comma
+00:42:54	Supreeth S Shetty:	yes sir
+00:42:57	Ravikumar Pareet:	yes
+00:43:22	saket kumar:	please disable the chat
+00:43:26	Supreeth S Shetty:	similarity index
+00:44:04	Arunava Nag:	in this example , each vector MUST have same number of coordinates separated by comma
+in real world , each dataset might have different number of coordinates.
+00:45:14	hemant gupta:	How do we translate the text into these x,y,z coordinates
+00:45:32	Supreeth S Shetty:	1
+00:46:08	Vikash Kumar:	when to use which similarity
+00:46:22	manoj kumar:	Do we have example why cosine is better over eucledian
+00:47:01	Arunava Nag:	in this example , each vector MUST have same number of coordinates separated by comma
+
+in real world , each dataset might have different number of coordinates, then how to compare them ?
+00:47:24	hemant gupta:	find similarity
+00:47:27	mukesh kumar:	nv
+00:47:29	Devendra Yadav:	storing the vector
+00:47:29	Armaan Shaikh:	to convert datat into vector
+00:47:31	roja c:	getting numerical represenatations
+00:47:32	Amarendra Kushwaha:	embedding
+00:47:32	Sam R:	share output
+00:47:32	Sunil Kumar:	converting to vectors
+00:47:34	mukesh kumar:	numerical value
+00:47:34	Satyam Mishra:	embedding
+00:47:34	Raj Dalsaniya:	storing in vector data base and retrival
+00:47:35	Krishna Aleti:	converting data into vector
+00:47:36	naresh kumar:	converting it into vector
+00:47:36	Kaushal Kumar:	transformer
+00:47:37	Manish G:	convert data into vector
+00:47:38	Vijay Kumar:	Converting into numbers
+00:47:40	Prashant Rai:	converting text into vectr database4
+00:47:40	Vipin Vishal:	conversion
+00:47:43	Sharanya Manohar:	transformer
+00:47:47	Vipin Vishal:	conversion
+00:47:50	Lokesh Naidu:	data preprocessing to vectors
+00:47:52	Prabhakar Kumar:	to convert the data into vector and choose appropiate model
+00:47:57	saket kumar:	check the similarity between into query and the answer
+00:48:03	Prashant Rai:	this is major part because after this my compoter can do everything
+00:48:14	Arunava Nag:	embedding and flattening before calculation
+00:49:18	Prashant Rai:	what is embedding can you explain
+00:49:54	Chirag Anand:	bottom when you write in search
+00:49:56	Krishna Aleti:	search > embedding > view all
+00:50:09	Sumit Sahoo:	sentence similarity
+00:50:22	Saranya Sittra:	how does model assign value to some vector ? bit lost there. in general sense,am able to understand cosine similarity or euclidean distance.
+00:50:48	Amarendra Kushwaha:	yes
+00:50:50	RAMESHKUMAR SELLAMUTHU:	can you explain the caculation part for cosine and eucldian pat
+00:50:55	Armaan Shaikh:	s
+00:50:55	RAMESHKUMAR SELLAMUTHU:	not getting
+00:50:55	Krishna Aleti:	Yes, It was insane
+00:50:56	Joe Wilson:	yes
+00:50:56	Vipin Vishal:	yes
+00:50:58	Shivam Makwana:	yes
+00:51:02	Dr Girish Supekar:	not yet
+00:51:14	kartik mojhindru:	was that covered in doubt session?
+00:51:19	kartik mojhindru:	inferencing one?
+00:51:25	Abhrajit Pal:	yes, gpt 120 I have hosted in cloud
+00:51:29	Dr Girish Supekar:	i will sure go through it
+00:51:31	Saiyam jain:	to run all of this model we need gpu ?
+00:52:04	Nishit Hirpara:	how to deploy this model in our machine organization level?
+00:54:05	Nagesh Mashette:	how you integrated openai and other LLM models into Euron platform.
+00:54:19	Nagesh Mashette:	is it wrapper of those LLM here?
+00:55:10	Rajesh Sharma:	From word2vec we have come to transformers based embedding models.
+00:56:47	kartik mojhindru:	not getting the api interface
+00:58:00	Amarendra Kushwaha:	share the code
+00:58:03	Amarendra Kushwaha:	yes
+00:58:04	Armaan Shaikh:	repeat please
+00:58:05	Dr Girish Supekar:	yes
+00:58:05	Joe Wilson:	yes
+00:58:08	Abhrajit Pal:	yes
+00:58:08	Krishna Aleti:	come again pls
+00:58:10	Sayan Basu:	Can you please repeat?
+00:58:12	kartik mojhindru:	no lost it on the API
+00:58:15	Sarfaraz A:	yes
+00:58:15	Prashant Rai:	it mesnd 1536 point pe represnt karega
+00:58:17	Prashant Rai:	data k
+00:58:19	Vijay Kumar:	Please repeat si last part of 1536
+00:58:20	Armaan Shaikh:	sir please repeat
+00:58:23	Prashant Rai:	is this a meaning
+00:58:24	Priyanshu L:	1536 dimension
+00:58:27	saket kumar:	got it
+00:58:32	Armaan Shaikh:	the dimension 1536 part
+00:58:34	Arunava Nag:	thanks..
+
+that was my exact question of length..it's 1536 for this model
+00:58:43	Prashant Rai:	1536 dataset point hai?
+00:58:57	Anil M:	Sir , Could you please explain again on shape 1536 …..
+00:59:07	Amarendra Kushwaha:	yes got it
+00:59:08	Muhammad Arslan:	sir please show one how to use embeddings model from hugging face
+00:59:13	Prothivi V G:	sir data preprocessing done itself using api key
+00:59:27	Anil M:	The text- my name is Sudhansu an I am a software engineer
+00:59:45	Supreeth S Shetty:	x1,y1,z1
+01:00:11	Anil M:	It mens above text is represented …. 1536?
+01:00:40	kartik mojhindru:	can we limit the dimensions?
+01:00:55	Prashant Rai:	No
+01:01:00	Anil M:	So your example giving 1536 dimention?
+01:01:02	Abhrajit Pal:	yes
+01:01:02	Krishna Aleti:	pls explain the conversion and how does higher shape means higher usage
+01:01:04	Sonu Kumar:	https://projector.tensorflow.org/
+01:01:05	Prashant Rai:	1536 part still not understand
+01:01:10	Prashant Rai:	is it a single point
+01:01:12	archit Mehrotra:	getting error
+01:01:12	GALLA VENKAT:	please repeat sit
+01:01:13	archit Mehrotra:	
+import requests
+import numpy as np
+
+def generate_embeddings(text):
+    url = "https://api.euron.one/api/v1/euri/embeddings"
+    headers = {
+        "Content-Type": "application/json",
+        "Authorization": "Bearer euri-0e2b59b47baff48f07849b742fa4bb7f1965fb2ed47abc8788c64181a37ea880*"
+    }
+    payload = {
+        "input": text,
+        "model": "text-embedding-3-small"
+    }
+
+    response = requests.post(url, headers=headers, json=payload)
+    data = response.json()
+    
+    embedding = np.array(data['data'][0]['embedding'])
+    
+    return embedding
+
+text = "my name is Archit."
+
+embedding = generate_embeddings(text)
+01:01:14	Sharanya Manohar:	yess
+01:01:14	Shivam Makwana:	yes
+01:01:15	Arunava Nag:	thanks..
+
+that was my exact question of length..it's 1536 for this model
+01:01:28	archit Mehrotra:	KeyError                                  Traceback (most recent call last)
+Cell In[3], line 24
+     20     return embedding
+     22 text = "my name is Archit."
+---> 24 embedding = generate_embeddings(text)
+
+Cell In[3], line 18
+     15 response = requests.post(url, headers=headers, json=payload)
+     16 data = response.json()
+---> 18 embedding = np.array(data['data'][0]['embedding'])
+     20 return embedding
+
+KeyError: 'data'
+01:01:39	Amarendra Kushwaha:	2D matrix, 3D RGB
+01:01:51	Prashant Rai:	what i understand 1536 diffrent point for this entence
+01:01:54	Muhammad Arslan:	sir please show one how to use embeddings model from hugging face
+01:01:54	archit Mehrotra:	ok sir
+01:01:58	Krishna Aleti:	pls explain the conversion and how does higher shape means higher accuracy
+01:02:04	Shahid Raza:	to execute this we may need to install bumpy and requests right?
+01:02:11	kartik mojhindru:	how this conversion have happened can we cover a bit on that?and can the dimensions be limited
+01:02:15	navneet kumar:	how to use upi key
+01:02:16	Supreeth S Shetty:	SO basically its N dimensional,. so based on our text, the shape varies, meaning it can be above or below 1536
+01:02:24	P Gautham Pai:	can u show us how to use other embedding models from hugging face too?
+01:02:49	Avinash Adsare:	why always len is same
+01:02:55	Muhammad Arslan:	then how much data we pass to this model at single time. and how its ans our questions
+01:03:13	Armaan Shaikh:	why only 1536 why not something else?
+01:03:21	Krishna Aleti:	pls explain the conversion and how does higher shape means higher accuracy
+01:03:39	Anil M:	Sorry basic doubt  here  shape (1536)your are referring as dimension ?
+01:04:08	Avinash Adsare:	Sir why length is not changing
+01:04:14	Armaan Shaikh:	why only 1536 dimension why not something else?
+01:04:15	Priyanshu L:	further this dimension can increase beyond 1536 also
+01:04:20	Ranjit Batra:	Not sure why euri is not allowing me to create api key
+01:04:29	Supreeth S Shetty:	xy
+01:04:41	Supreeth S Shetty:	*x,y
+01:04:44	Abhrajit Pal:	its always showing 1536 eve single word or long sentence
+01:05:06	Vipin Vishal:	3 pen example
+01:05:10	sandeep saraf:	sir test it with a long sentence
+01:06:35	Ritesh Kumar:	screen is not visible
+01:06:44	Aman Singh:	any parcel box will be good example
+01:06:51	Aman Singh:	or carton box
+01:07:06	Raj Dalsaniya:	Abhrajit, it will always 1536 fir single word or long sentence. that is output dim of embedding model
+01:07:18	mukesh kumar:	sir, please use other colour when you draw, red is not visible in my pc.
+01:07:24	Lokesh Naidu:	yes sir
+01:08:41	Ajith chadaga:	what is the need to increase the cordinate , does the clarity improve
+01:08:43	Aman Singh:	increase brightness Mukesh, then you will be able to see red
+01:08:45	Prashant Rai:	(1536) mean (x,y,z,N)
+01:08:46	Anil M:	Got it sir , thank you 
+X1,y1 (2d) shape 2
+x1,y2,z3 (3d) shape 3
+x1 ,y2,z3,.... n1536) shape is 1536
+
+so how many co ordinates we have to choose ? in this case what is the reason of choosing 1536..
+any criteria in choosing shape sir?
+01:08:51	Supreeth S Shetty:	So this model has 1536 dimension, and when ever we use this model it alwys repesent the point in space which has 1536 dimentsion
+01:08:53	Sonu Kumar:	Sir , you want to show like this link https://projector.tensorflow.org/
+01:09:24	Raj Dalsaniya:	yes supreeth
+01:09:25	Amarendra Kushwaha:	compressed vector
+01:09:37	Aman Singh:	X1,y1 (2d) shape 2x1,y2,z3 (3d) shape 3x1 ,y2,z3,.... n1536) shape will be shape 1536
+01:09:42	Pushpa J:	here 1536 means each word is compared with 1536 simultaneous word?
+01:09:43	SHASHANK Padelkar:	so does this vector output represent like 1d ,3d,5d,6d output in vector db?
+01:09:57	Prabhakar Kumar:	can you please execute in .py the code with you have written?
+01:10:50	Deepak Jain:	can we say, more dimensions stands for better model?
+01:10:55	Pushpa J:	what is the need of this 1536 dimension? why we need it
+01:11:36	Krishna Aleti:	what is size here?
+01:11:42	Supreeth S Shetty:	1024,0
+01:11:48	Krishna Aleti:	what is size here?
+01:12:22	Muhammad Arslan:	sequence length is input??
+01:12:36	Amarendra Kushwaha:	yes
+01:12:41	Rajesh Sharma:	does the embedding vector represents specific quality about the text with +ve or -ve bigger/smaller values?
+01:12:45	Lokesh Naidu:	what scenario we can use this models sir please explain
+01:12:45	kartik mojhindru:	can you please share what is the significance of ach of these attributes?
+01:12:51	Shahid Raza:	so creating RAG based system we need two models?
+01:14:28	Raj Dalsaniya:	Pushpa Text have many features.. if we represent text to one number semantic meaning of text will be lost. like understanding similar word model can not understand. hope this help you understand why we need higher dimension for word or sentence.
+01:14:45	Aman Singh:	model = SentenceTransformer("all-MiniLM-L6-v2")
+01:15:22	Md Akhtar:	we don't need api acees to use qwen
+01:16:57	sudhanshu kumar:	from sentence_transformers import SentenceTransformermodel = SentenceTransformer("Qwen/Qwen3-Embedding-0.6B")documents = [    "The capital of China is Beijing.",    "Gravity is a force that attracts two bodies towards each other. It gives weight to physical objects and is responsible for the movement of planets around the sun.",]document_embeddings = model.encode(documents)
+01:17:05	sudhanshu kumar:	pip install sentence-transformers
+01:17:08	kartik mojhindru:	is it sentence_transformers or sentence-transformers?
+01:17:09	Nishit Hirpara:	how to deploy model on local premises from hugging face
+01:17:11	Mustafa Kamaal:	Why are we even doing this? Why do we need to know the embedding values?
+01:17:12	Akhtar Nadeem:	Disable other people chat
+01:18:50	Manas Pandey:	Longer text chunks …Higher dimension will help ?
+01:19:01	Syed Waquaruddin:	yes
+01:19:03	Dr Girish Supekar:	yes
+01:19:04	Abhrajit Pal:	yes
+01:19:04	Vijay Kumar:	Yes
+01:19:08	Vaibhav Yaramwar:	yes
+01:19:11	Supreeth S Shetty:	yes sir, absolutely... :)
+01:19:31	Prodip Sarkar:	Setup any hf_api key
+01:19:38	sudhanshu kumar:	from sentence_transformers import SentenceTransformermodel = SentenceTransformer("Qwen/Qwen3-Embedding-0.6B")documents = [    "The capital of China is Beijing.",    "Gravity is a force that attracts two bodies towards each other. It gives weight to physical objects and is responsible for the movement of planets around the sun.",]document_embeddings = model.encode(documents)
+01:19:39	Amarendra Kushwaha:	yes
+01:19:40	Prodip Sarkar:	Setup any hf_api key
+01:19:47	sudhanshu kumar:	pip install sentence-transformers
+01:19:57	kaushal gupta:	So full statement  given input represent single point aftervembedding
+01:19:57	Pushpa J:	does 1536 dimension have limitation on length of sentence or para graph we use?
+01:21:09	Amarendra Kushwaha:	that’s just the size of the vector output from the embedding model (always fixed)
+01:21:43	Muhammad Arslan:	sir no matter how much word we give its give fix output then it's make all my data is one point
+01:23:41	Amarendra Kushwaha:	yes
+01:23:43	Syed Waquaruddin:	yes
+01:23:46	GALLA VENKAT:	yes
+01:23:47	Supreeth S Shetty:	Sure Sir...
+01:23:47	SHASHANK Padelkar:	yes sir
+01:23:47	Joe Wilson:	yes
+01:23:49	Vikash Kumar:	yes
+01:23:52	Lokesh Naidu:	yes
+01:23:52	Vaibhav Yaramwar:	Yes please
+01:23:52	Dr Girish Supekar:	yes sir
+01:23:53	Sarfaraz A:	yes
+01:23:53	Sachin Borgave:	Yes
+01:23:57	Kavin M:	yes
+01:23:58	Anil Ch:	Yes
+01:23:58	GALLA VENKAT:	clear sir
+01:23:59	Vijay Kumar:	Yes clear
+01:23:59	Shivam Makwana:	yes
+01:24:02	sushree sucharita:	yes
+01:24:03	Mandar Aarondekar:	yes
+01:24:04	Abhrajit Pal:	yes
+01:24:07	Vipin Vishal:	yes
+01:24:08	Anil M:	yes
+01:25:38	Amarendra Kushwaha:	yes
+01:25:46	Krishna Aleti:	both
+01:25:46	Supreeth S Shetty:	sk learn
+01:25:47	Dr Girish Supekar:	sklearn
+01:25:47	Armaan Shaikh:	both
+01:25:47	Prodip Sarkar:	manual
+01:25:47	Mandar Aarondekar:	formula
+01:25:48	Priyanka Kamble:	use formula
+01:25:48	Roja C:	Formula
+01:25:48	fijula Azhikoden:	both
+01:25:49	Avinash Adsare:	both
+01:25:49	Sachin Borgave:	wit aklearn
+01:25:49	Vikash Kumar:	both
+01:25:50	Abhrajit Pal:	formula
+01:25:51	Sarfaraz A:	first manual
+01:25:51	Devendra Yadav:	😅 formula sir
+01:25:51	sandeep saraf:	manual
+01:25:51	Priyanshu L:	formula
+01:25:53	Vikas Kumar:	Both
+01:25:54	kartik mojhindru:	lets do both
+01:25:55	GALLA VENKAT:	manual is very difficult
+01:25:58	fijula Azhikoden:	manual and then formaula
+01:25:59	naresh kumar:	manual then formula
+01:26:08	Mandar Aarondekar:	😅
+01:26:11	navneet kumar:	why solving this problem
+01:26:23	navneet kumar:	is there any region
+01:26:37	Muhammad Arslan:	sir no matter how much word we give its give fix output then it's make all my data is one point
+01:26:51	Prodip Sarkar:	Please use of function Sir
+01:27:53	Amarendra Kushwaha:	high
+01:27:53	Supreeth S Shetty:	higly similar
+01:27:58	Prodip Sarkar:	yes
+01:28:02	Syed Waquaruddin:	yes
+01:28:02	Abhrajit Pal:	yes
+01:28:04	Dr Girish Supekar:	yes
+01:28:51	Supreeth S Shetty:	swnt1
+01:29:44	Prodip Sarkar:	Should be negative
+01:29:48	Amarendra Kushwaha:	yes
+01:29:48	Sarfaraz A:	yes
+01:29:49	kartik mojhindru:	sorry
+01:29:51	Syed Waquaruddin:	yes
+01:29:53	kartik mojhindru:	can you come again
+01:29:53	Anil Ch:	Yes
+01:30:04	kartik mojhindru:	not getting the orthogonal part
+01:30:14	Muhammad Arslan:	how we decide the length of over sentence in long book
+01:30:26	kartik mojhindru:	ok got it cos 90  = 0
+01:30:39	SHASHANK Padelkar:	any output which is showing closer to -1
+01:31:06	Nishit Hirpara:	result is different in my machine
+01:31:23	sandeep saraf:	can we do it with mumerical data points as well
+01:31:28	kaushal gupta:	How model embed the word.like bag of word or something technique?
+01:31:51	Muhammad Arslan:	sir give you high level overview how data into vector make??
+01:31:52	RAMESHKUMAR SELLAMUTHU:	how can we similarity word by word in between sentence?
+01:32:14	Amarendra Kushwaha:	yes
+01:32:16	Avinash Adsare:	S
+01:32:25	Avinash Adsare:	paste the code sir
+01:32:55	Nishit Hirpara:	I am using same model and same sentence still my machine is showing 0.744 and yours 0.78
+01:33:02	Supreeth S Shetty:	sir 1 question regarding the conversion of text to vector, whats happening in the background, i know we are using a pre-trained a model, and it uses Transforeme with N layers, but do we have to know about it??
+01:33:12	Joe Wilson:	yeah
+01:33:19	Saiyam jain:	not able to run in local have to shift to colab
+01:34:17	Devendra Yadav:	sir can you repeat why we are getting different vectors
+01:34:25	Krishna Aleti:	what is the course name that u mentioned just now?
+01:34:29	mukesh kumar:	pip install transformer
+01:34:39	mukesh kumar:	Giving error
+01:34:46	Vikash Kumar:	not the same anwer
+01:34:48	Shahid Raza:	pip install sentence_transformers
+01:34:52	Shivam Makwana:	nope
+01:35:08	Avinash Adsare:	Sir please tell another method apart from manual method to check similarity
+01:35:31	Amarendra Kushwaha:	yes
+01:35:36	GALLA VENKAT:	yes
+01:35:37	Aman Singh:	nice class
+01:35:48	Lokesh Naidu:	fine sir
+01:35:52	sandeep saraf:	can we use in numerical data
+01:35:58	Sarfaraz A:	yes
+01:36:08	Roja C:	Vector db
+01:36:10	Arunava Nag:	main is VECCTOR but in DATABASES
+01:36:10	Sunil Kumar:	vector db
+01:36:12	GALI MALLIKARJUNA REDDY:	vector db
+01:36:22	GALLA VENKAT:	to store the data
+01:36:26	Dr Girish Supekar:	store the embeddings
+01:36:28	GALI MALLIKARJUNA REDDY:	store the vectoe data
+01:37:28	Shahid Raza:	vector…
+01:37:41	Venkateshwar Rao Eturi:	Even if the same question is asked to me twice my answer will not be exactly same word to word though the essence will be same
+01:38:16	Saiyam jain:	query will be converted to vector than we do similarity search hightest score text will be return as answer
+01:39:02	Arunava Nag:	so this particular db, built on qwen embedding,  schema will be of 1024 columns ?   
+
+and context would basically mean how many such rows are considered during final RETURN ..  correct ?
+01:39:27	GALLA VENKAT:	got it sir
+01:39:33	Mandar Aarondekar:	cool
+01:39:47	GALLA VENKAT:	awesome class
+01:40:52	Anil Ch:	Disr2
+01:40:53	Manas Pandey:	2
+01:40:54	Supreeth S Shetty:	dist2, but use 5 sentatce also
+01:40:57	Deepak Jain:	2
+01:40:58	Syed Waquaruddin:	second
+01:40:58	Armaan Shaikh:	dis2
+01:40:58	Anil M:	2
+01:40:59	Joe Wilson:	2
+01:41:00	Sarfaraz A:	sent2
+01:41:00	Shivam Makwana:	2
+01:41:01	Ashish singh:	s2
+01:41:02	Prabhakar Kumar:	2
+01:41:03	kartik mojhindru:	2
+01:41:03	Rachana C S:	dist2
+01:41:03	Priyanka Kamble:	2
+01:41:03	Biswatosh Samal:	2
+01:41:04	Saiyam jain:	sentence 2
+01:41:05	Ganesh Sahu:	2
+01:41:08	Prodip Sarkar:	2
+01:41:14	vishal singh:	Second 2
+01:41:16	Mahesha A S:	2
+01:41:17	Priyanshu L:	sent 2
+01:41:18	Suhashreddy Gottikati:	sent2
+01:41:25	Supreeth S Shetty:	dist 2 has higher similarity index sir
+01:41:57	Arunava Nag:	so this particular db, built on qwen embedding,  schema will be of 1024 columns ?   
+
+and context would basically mean how many such rows are considered during final RETURN ..  correct ?
+01:41:59	Ganesh Sahu:	why sentence 1 not came
+01:42:00	Syed Waquaruddin:	yes
+01:42:01	Amarendra Kushwaha:	yes
+01:42:02	Shahid Raza:	yes
+01:42:02	Arunprasaad Chandrasekaran:	yes
+01:42:02	Supreeth S Shetty:	yes sir
+01:42:03	Sarfaraz A:	yes
+01:42:03	GALLA VENKAT:	yes
+01:42:03	Prabhakar Kumar:	perfect
+01:42:04	sandeep saraf:	absolutely
+01:42:04	Armaan Shaikh:	mazedaar
+01:42:05	Vaibhav Yaramwar:	Yes
+01:42:10	Satish K:	very clear
+01:42:11	Anil Ch:	Nice
+01:42:28	GALLA VENKAT:	awesome explaination sir
+01:43:13	Prodip Sarkar:	rag
+01:43:22	Krishna Aleti:	video gone
+01:43:37	Deepak Jain:	something like notebooklm
+01:43:38	Anil Ch:	It makes sense how the questions are being answered on ChatGPT
+01:44:07	Pushkar Shiinde:	sir how vectore db gives words in retrieve ,cause its have only numbers so how its happen?
+01:44:08	Amarendra Kushwaha:	yes
+01:44:10	RAMESHKUMAR SELLAMUTHU:	is it working similar to key word search algorithm? how it is different from vector DB?
+01:44:11	Nishit Hirpara:	perfect example
+01:44:11	Shahid Raza:	yes
+01:44:13	Joe Wilson:	yes
+01:44:14	Mandar Aarondekar:	yes
+01:44:15	Shivam Makwana:	yes
+01:44:22	Vaibhav Yaramwar:	yes
+01:44:25	Nishit Hirpara:	Do we have any end to end project like this?
+01:44:27	Abhrajit Pal:	Yes clear
+01:44:30	Supreeth S Shetty:	very clear sit :)
+01:44:33	Supreeth S Shetty:	sir*
+01:44:34	Mustafa Kamaal:	RAG basically
+01:44:34	GALLA VENKAT:	all clear sir
+01:44:37	sandeep saraf:	yes
+01:44:44	Amarendra Kushwaha:	yes RAG
+01:44:56	Anil Ch:	Thank you sir for going through fundamentals
+01:45:05	Prodip Sarkar:	Pine cone
+01:45:15	kartik mojhindru:	ne04j?
+01:45:43	Prashant Rai:	How to use google colab please give one small class
+01:45:44	Arunava Nag:	so the knowledge base is WHAT we want it to be instead of global and unspecialised ?
+01:45:45	Prodip Sarkar:	Neo4j-graphdb
+01:46:00	Prashant Rai:	i mean small demo
+01:46:02	Satish K:	In my company, they gave me a task to connect the company's SQL database & Mongodb to an AI model and design a chat assistant for it.
+01:46:32	jubayer hussain:	no
+01:46:35	Sarfaraz A:	may be first session they were not present or watched
+01:46:36	jubayer hussain:	no
+01:46:42	jubayer hussain:	Go to youtube
+01:46:52	kushalappa BE:	based on today's discussion, what are the topics(like transformers) we need to refer to improve our understanding?
+01:47:04	Arunava Nag:	so the knowledge base is WHAT we want it to be instead of global and unspecialised ?
+01:47:08	Aman Singh:	very very basic question being asked in GenAi class
+01:47:44	Aman Singh:	atleast learn python and different IDE
+01:48:08	kushalappa BE:	thank you!
+01:48:09	P Gautham Pai:	Hey Sir, does Euri API allow tools access? I want to enable the tools functionality to build agentic ai sols, like how openAI provides.
+01:48:20	Supreeth S Shetty:	Thanks Sir...
+01:48:22	jubayer hussain:	Do we learn prompt writing ?
+01:48:28	Prodip Sarkar:	I checked
+01:48:40	Jatin Chandna:	Sir, I have over 5 years of experience in Data Science. I have just started learning Gen AI with you. Should I also join the Gen AI interview preparation classes?
+01:48:44	Avinash Adsare:	should we follow this course to understand ml terms
+01:49:16	Amit Kumar:	we don't have 4 hrs class today?
+01:49:27	Prodip Sarkar:	Any plan to  upload videos in master series
+01:49:33	Supreeth S Shetty:	its 2 hrs class, 2 hrs of dount session
+01:49:42	Supreeth S Shetty:	doubt*
+01:49:49	Mandar Aarondekar:	wonderful lecture, looking forward to tomorrows
+01:49:57	Prodip Sarkar:	Any plan to  upload videos in master series
+01:50:07	Muhammad Arslan:	sir how we tackle book we not sentence
+01:50:33	Subhash Dixit:	Sir, are we going to discuss about sequence lentgh, context , etc I future or do we have to study after this class itself?
+01:50:34	jubayer hussain:	No problem sir
+01:50:34	Md Akhtar:	any assignment for today
+01:50:34	Prodip Sarkar:	Any plan to  upload videos in master series
+01:50:34	hardik parmar:	i enjoy todays class Thank you sir
+01:50:40	Krishna Aleti:	then also ppl will ask in whatspp 😂😂
+01:50:44	Dr Girish Supekar:	Thank you sir
+01:50:48	Avinash Adsare:	yes sir
+01:50:50	Jatin Chandna:	Sir, I have over 5 years of experience in Data Science. I have just started learning Gen AI with you. Should I also join the Gen AI interview preparation classes?
+01:51:02	Prodip Sarkar:	Any plan to  upload videos in master series
+01:51:04	Vaibhav Yaramwar:	Loving your challenges
+01:51:06	Jatin Chandna:	Sir, I have over 5 years of experience in Data Science. I have just started learning Gen AI with you. Should I also join the Gen AI interview preparation classes?
+01:51:09	Nishit Hirpara:	do we have any project recording to make Chat bot within organization to access document ?
+01:51:12	Arunprasaad Chandrasekaran:	thank you
+01:51:12	Prodip Sarkar:	Any plan to  upload videos in master series
+01:51:13	Sarfaraz A:	I enjoyed too
+01:51:13	Arunprasaad Chandrasekaran:	sir
+01:51:17	GALLA VENKAT:	superb class
+01:51:17	Supreeth S Shetty:	awesome sir....
+01:51:19	Krishna Aleti:	excellent class
+01:51:21	jubayer hussain:	New for me
+01:51:23	Sharanya Manohar:	thanks sir
+01:51:50	Aman Singh:	hahaha
+01:51:56	Krishna Aleti:	Introvert Pro MAX
+01:52:01	jubayer hussain:	How to improve communication skill
+01:52:05	Aman Singh:	how they will talk to girl then
+01:52:24	Aman Singh:	Avni is not a girl guys, its a machine lol
+01:52:42	Mustafa Kamaal:	lol
+01:52:46	Manish G:	😂
+01:52:53	Armaan Shaikh:	sir can get source code of avani
+01:52:57	Ganesh Sahu:	😂
+01:53:02	Asish Mohanty:	🤣
+01:53:19	Mustafa Kamaal:	Sir we are not ready for interview
+01:53:47	Saiyam jain:	sir I have pinged you over Whatsapp regarding some idea to build some project for company please check when u have free time
+01:53:51	SHASHANK Padelkar:	how we can join live class of this interview bootcamp
+01:53:56	Arunava Nag:	.
+01:54:09	Sakti Mishra:	sir one request,can you please turn off the chat with everyone when class starts
+01:54:10	Mustafa Kamaal:	Sir are all paid courses available to PRO users without extra charge?
+01:54:18	kushalappa BE:	So after tomorrows class we would be completing "Embeddings & Vector Databases" and move onto "Basics of Agents" from the curriculum standpoint?
+01:54:32	Jatin Chandna:	Thanks sir!
+01:55:16	Sachin Borgave:	FOr GEN ai , is it required DSA?
+01:55:29	Prodip Sarkar:	Any plan to  upload videos in master seriesAny plan to  upload videos in master series
+01:55:40	Prodip Sarkar:	Any plan to  upload videos in master series
+01:55:41	jubayer hussain:	After complete genAI ,getting the job ?
+01:55:48	Arunava Nag:	with local documentation reads, the knowledge base is WHAT we want it to be instead of global unspecialised
+01:55:55	hardik parmar:	give us more intrusting topics and thinks on your youtube channel
+01:56:13	Prodip Sarkar:	Any plan to  upload videos in master series
+01:56:18	jubayer hussain:	yes
+01:56:30	Prodip Sarkar:	Any plan to  upload videos in master series
+01:56:33	Satish K:	In my company, they gave me a task to connect the company's SQL database and MongoDB to an AI model and design a chat assistant for it. Which open-source model is best fit for this use case?
+01:56:35	mukesh kumar:	I want to share my screen
+01:56:41	Asish Mohanty:	DSA is required for gen AI?
+01:56:42	Ranjit Batra:	I like to share my machine
+01:57:04	Prodip Sarkar:	Ok thank you
+01:57:31	SHASHANK Padelkar:	how we can join live class of this genai interview bootcamp?
+01:57:33	Shylaja V:	when can we get the complete videos on System Design Master, it has only 5 videos as of now?
+01:57:34	Mustafa Kamaal:	Do PRO euros users get all paid courses without paying for the course additionally?
+01:57:35	Subhash Dixit:	Sir, is it required after 5 years of exp as well in Data Science domain?
+01:57:45	piyush nandan:	for 10+ year exp DSA IS REQUIRED
+01:57:54	Arunava Nag:	with local documentation reads, the knowledge base is WHAT we want it to be instead of global unspecialised
+01:58:01	piyush nandan:	OK SIR
+01:58:15	navneet kumar:	but sql also asked
+01:58:16	Shylaja V:	when can we get the complete videos on System Design Master, it has only 5 videos as of now?
+01:58:30	Subhash Dixit:	It is veery very imp
+01:58:31	Mustafa Kamaal:	Do PRO euron users get all paid courses without paying for the courses/botcamp additionally?
+01:58:40	Krishna Aleti:	7-1hrs sql video is there
+01:58:53	Asish Mohanty:	After completing DSA we should learn Gen AI?or we can do in parrael?
+01:58:55	Krishna Aleti:	*7-10
+01:58:58	mukesh kumar:	need to share my screen
+01:58:58	navneet kumar:	and pyspark interview question
+01:59:15	Sonu Kumar:	sir,I am a .NET developer with 4 years of experience. What is the scope of this course?
+01:59:16	archit Mehrotra:	sir, computer vison lectures are pending for quite some time now.
+01:59:34	sandeep saraf:	I had question
+01:59:35	navneet kumar:	can you provide pyspark interview question
+01:59:42	archit Mehrotra:	thanks
+01:59:44	Shylaja V:	when can we get the complete videos on System Design Master, it has only 5 videos as of now?
+01:59:46	Vikash Kumar:	sir wanted to know how the imgae embedding works and how it do the similarity serach
+01:59:47	Avinash Adsare:	couple of doubts
+01:59:49	Shahid Raza:	I have query to ask
+01:59:49	kartik mojhindru:	I have a couple of questions
+01:59:54	kartik mojhindru:	regarding API
+01:59:56	Shahid Raza:	it will be very quick
+02:00:11	Ranjit Batra:	Yes I like to share sceen
+02:00:22	Satish K:	are we connecting different databases in this course like mongo or sql
+02:00:23	Muhammad Arslan:	how sir documents are change to sentence
+02:01:10	Krishna Aleti:	even he is installing incorrect library ir seems
+02:01:31	Krishna Aleti:	not transformers its sentence-transformers
+02:01:32	Mustafa Kamaal:	Python3.10 -m venv venv
+02:01:49	Shahid Raza:	Do you prefer to have condo in our machine?
+02:01:59	Asish Kumar Nayak:	please create API key and use that inplace of *. I can see your not using API key then how it will be giving response ?
+02:02:28	Armaan Shaikh:	sir 3.18 will work?
+02:02:36	Armaan Shaikh:	sory 3.8
+02:02:39	Tanish Rajput:	Sir, are there  models which can generate embeddings  for  Hindi and Sanskrit also?
+02:02:43	Aman Singh:	check if python is available
+02:02:46	Mahesha A S:	API Key needs to be created and added in your code
+02:02:58	Mustafa Kamaal:	You should first install python3.10 I guess
+02:03:18	Aman Singh:	spelling sir
+02:03:43	Muhammad Arslan:	py -3.10 venv test
+02:03:45	Shilpi Agarwal:	How to pass an and b value as a model when we run the http://127.0.0.0:8000/multiply on chrome browser or any browser
+02:03:51	Prashant Rai:	---------------------------------------------------------------------------
+ModuleNotFoundError                       Traceback (most recent call last)
+Cell In[1], line 1
+----> 1 from sentence_transformers import SentenceTransformer
+      3 model = SentenceTransformer("Qwen/Qwen3-Embedding-0.6B")
+      5 documents = [
+      6     "The capital of China is Beijing.",
+      7     "Gravity is a force that attracts two bodies towards each other. It gives weight to physical objects and is responsible for the movement of planets around the sun.",
+      8 ]
+
+ModuleNotFoundError: No module named 'sentence_transformers'
+02:03:52	Shahid Raza:	his machine should have 3.10 in his machine
+02:03:55	Prashant Rai:	i also face error
+02:04:23	Shahid Raza:	better to install conda
+02:05:04	Lalu Mahato:	Try uv: uv venv .venv --python=3.10
+02:05:36	Shahid Raza:	do you feel it’s suggested to have on our machine?
+02:05:56	Lalu Mahato:	pip install uv
+uv venv .venv --python=3.10
+02:06:00	Armaan Shaikh:	sir give the command for conda create
+02:06:56	Aman Singh:	can you show us how to switch between python3.10 and python 3.12 in terminal without conda?
+02:08:01	Shahid Raza:	Hi @Aman, you may need to create virtual environment to use itents
+02:08:21	Shilpi Agarwal:	How to pass a and b value as a model when we run the http://127.0.0.0:8000/multiply on chrome browser or any browser
+02:10:28	Aman Singh:	Hi @Shahid, I know. but I wanted sir to discuss and show because many people are freshers here
+02:11:39	Shahid Raza:	ok
+02:12:20	Mustafa Kamaal:	How do people even decide which model to use and which embedding model to use in real life practically???
+02:12:37	Galla Venkat:	what is the parameter here?
+02:16:29	sudhanshu kumar:	https://poloclub.github.io/transformer-explainer/
+02:21:17	Shilpi Agarwal:	Everyone
+02:30:57	Vikash Kumar:	tavily web scrapping would be good
+02:34:00	Pushkar Shiinde:	Sir after retrieving context from vector db by using query then how that embedding again converter into words?
+02:35:24	Pushkar Shiinde:	like is there any id that link embedding and words
+02:36:41	Prashant Rai:	I face error while ruuning code
+02:36:53	Prashant Rai:	can i share screen meanwhile
+02:36:56	Arunava Nag:	with local documentation reads, the knowledge base is WHAT we want it to be instead of global unspecialised .. correct ?
+02:53:00	Aruna Kumar Behera:	HI sir, i have a query
+02:54:02	Aruna Kumar Behera:	i can not see speker icon in webnair. wanted to speak
+02:56:15	Aruna Kumar Behera:	i have experience in selenium with java, how can the gen AI will give added advantage
+03:12:15	Krishna Aleti:	but u can share the Avani codebase at least whoever is interested let them explore
+03:12:32	Krishna Aleti:	but u can share the Avani codebase at least whoever is interested let them explore
+03:12:59	Krishna Aleti:	Makes sense
+03:13:12	Rakesh Patil:	khud ka Aavni banalo phir
+03:14:04	Raj Dalsaniya:	why should they share codebase.. they created product by making so much effort.. not a good demand
+03:16:18	MANISH G:	i wanted to share the screen
+03:21:19	Uday R:	Sir mera bhi question he ek
+03:23:36	Shahid Raza:	how to get ubuntu option sir?
+03:24:35	naresh kumar:	you can take euris help to convert
+03:25:43	Siddhartha Borpuzari:	extra comma
+03:27:23	Vipin Vishal:	curl -X POST https://api.euron.one/api/v1/euri/images/generations -H "Content-Type: application/json" -H "Authorization: Bearer YOUR_API_TOKEN" -d "{\"prompt\":\"A beautiful sunset over mountains\",\"model\":\"black-forest-labs/FLUX.1-schnell\",\"n\":2,\"size\":\"1024x1024\",\"quality\":\"standard\",\"response_format\":\"url\",\"style\":\"vivid\"}"
+03:28:16	Vipin Vishal:	this should work..i guess
+03:29:01	Vipin Vishal:	i did the same thing
+03:35:36	Sarfaraz A:	There is no free lunch
+03:43:04	Uday R:	Sir awaz hi nahi aa rhi meri shayad
+03:48:40	sudhanshu kumar:	@uday yes
+03:52:29	Vipin Vishal:	hindi me maza aa raha hai class me
+03:52:52	Uday R:	sir me post krta hu question-rag humne implement kiya he par relevancy bht kam he, wo keywird basis pr search krta he, elastic hum use kr rhe he db, hum chahte he context based kare search, elastic team bolti he semantic se context search hota he pr ho nae raha he , semantic chunking bhi kiye he humne iska solutionor bhi que he mere sir pr awaz nae aa rhi he shayad
+03:53:17	Sarfaraz A:	I think his concept of vector and dimension he has to look into
+03:54:51	Ganesh Sahu:	Sudhanshu Sir could you please add last assignment on resource section
+04:05:28	Rakesh Patil:	word2vec

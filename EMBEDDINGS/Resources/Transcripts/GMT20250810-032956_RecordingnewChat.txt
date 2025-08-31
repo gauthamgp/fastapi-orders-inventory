@@ -1,0 +1,886 @@
+00:01:37	Challagundla Sreenivasulu:	Hi Sir ..Good Morning
+00:01:38	Naji Aboo:	hi, Good morning
+00:01:53	Shilpi Agarwal:	Good morning sir
+00:02:02	Gopi Krishna Pujari:	Good morning sir
+00:02:08	Ritesh Kumar:	Good Morning Sir
+00:02:13	Manish G:	good morning sir
+00:02:17	jubayer hussain:	Good morning
+00:02:20	Himadri Mandal:	Sir this is my first live class so how to start ?
+00:02:22	venkateshwar Rao Eturi:	Good Morning all
+00:02:23	Abhisheek Dutta:	Good Morning,  Sir.
+00:02:29	archit Mehrotra:	screen stucked
+00:02:35	archit Mehrotra:	no voice
+00:02:37	mohit sanger:	good morning everyone
+00:02:39	Piyush Nandan:	good morning sir
+00:02:49	Avinash Adsare:	Good morning Sir
+00:02:59	archit Mehrotra:	screen not moving
+00:03:04	archit Mehrotra:	no voice
+00:03:07	Shahid Raza:	Hi good morning everyone!!!
+00:03:08	satyam mishra:	Screen isn’t moving
+00:03:09	archit Mehrotra:	anyone facing same issue
+00:03:16	Avinash Adsare:	GM all
+00:03:17	Biswatosh Samal:	no voice
+00:03:19	Shilpi Agarwal:	No voice
+00:03:19	veni Reddy:	He must be waiting for most of the students to join
+00:03:23	Rajeev Dubey:	Hi Good Morning
+00:03:24	Naji Aboo:	Yet to start i believ
+00:03:31	Rajeev Dubey:	No voice
+00:03:32	Manish D:	Guysw wait for some moment
+00:03:35	Ajit Sharma:	no
+00:03:37	Anil M:	Good Morning to all
+00:03:38	Ajit Sahoo:	no voice no video
+00:03:41	naresh kumar:	relax guys, he is on mute
+00:03:43	Asish Kumar Nayak:	good morning
+00:03:44	Shilpi Agarwal:	Screen freezes
+00:03:46	Veerendra Shukla:	He is not yet speaking
+00:03:54	Shivam Makwana:	Good morning to everyone
+00:03:58	veni Reddy:	He normally gives time initially
+00:04:01	Naji Aboo:	Yes
+00:04:01	Anil M:	yes
+00:04:01	Rajeev Dubey:	yes
+00:04:01	Himadri Mandal:	yes
+00:04:04	Veerendra Shukla:	yes
+00:04:04	Abhisheek Dutta:	Yes
+00:04:05	Shilpi Agarwal:	Yes
+00:04:25	Himadri Mandal:	Sir this is my first live class so how to start ?
+00:05:26	Prashant Rai:	good morning
+00:05:58	Chirag Anand:	good morning all
+00:06:07	Saiyam jain:	yes
+00:06:07	Naji Aboo:	yes
+00:06:07	Abhisheek Dutta:	Yes
+00:06:07	Veerendra Shukla:	yes
+00:06:08	Challagundla Sreenivasulu:	sure
+00:06:09	Piyush Nandan:	yes sir
+00:06:09	Saiyam jain:	let's start
+00:06:10	Joe Wilson:	yes
+00:06:11	veni Reddy:	yes
+00:06:12	Amit Sharma:	Yes
+00:06:12	Ashish singh:	yes
+00:06:12	Vijay Kumar:	Yes
+00:06:51	Praveen Maurya:	Good Morning
+00:07:20	veni Reddy:	Thanks for giving time for doubt clarification. Can we email just in case if it’s late to stay in doubt clarification session?
+00:09:36	Manish D:	Can we also do the get, put and delete in single go? in terms of the way we do Merge statement in sql
+00:10:16	Amarendra Kushwaha:	yes
+00:10:16	Veerendra Shukla:	yes
+00:10:18	Joe Wilson:	yeah
+00:10:18	Saiyam jain:	yes clear
+00:10:23	Ashish singh:	yes
+00:10:23	Avinash Adsare:	cler
+00:10:23	Vijay Kumar:	Yes
+00:10:24	Shivam Makwana:	yes
+00:10:24	Himadri Mandal:	+1
+00:10:27	Sumit Sahoo:	yes
+00:10:35	Abhisheek Dutta:	yes
+00:10:40	Krishnapratap Vedula:	Sir, I missed y'day class.
+00:10:59	Krishnapratap Vedula:	Thank You Sir
+00:11:29	satyam mishra:	Should I continue with this if I have missed yesterdays class ?
+00:12:19	satyam mishra:	?
+00:12:48	satyam mishra:	Should I continue with this if I have missed yesterdays class ?
+00:14:03	Sudip Kumar:	Yesterday I was unable to run code as I was unable to get cmd environment
+00:14:21	Prodip Sarkar:	Option
+00:14:32	Mustafa Kamaal:	can you cover PATCH also?
+00:15:08	sudhanshu kumar:	from fastapi import FastAPIfrom pydantic import BaseModel
+00:15:21	Amarendra Kushwaha:	data validation
+00:18:17	Sachin Borgave:	yes
+00:18:36	mohit sanger:	why you did not use co-pilot for auto complete
+00:19:35	Shahid Raza:	agree…
+00:19:46	Manish D:	not required import Panda lib ?
+00:19:48	Saiyam jain:	it is good we want something from scratch for base cover
+00:19:53	Shahid Raza:	please go with conceptually
+00:20:03	Veerendra Shukla:	It makes sense
+00:20:12	jubayer hussain:	That good slow
+00:20:20	mukesh kumar:	after name colon is it ok to give space
+00:20:20	Challagundla Sreenivasulu:	ya better please go slow so that everybody is on same page sir
+00:20:27	mukesh kumar:	before amrendra  name
+00:20:28	jubayer hussain:	Slow is better learning
+00:20:56	archit Mehrotra:	lets go with same pace, no need to hurry
+00:21:02	veni Reddy:	This pace helps us code along with you
+00:21:13	Shahid Raza:	yes
+00:21:34	veni Reddy:	So it’s better for all of us to follow in same pace
+00:24:43	veni Reddy:	Why do we use pedantic library here? If already covered, you can ignore this. If not could you clarify on what scenarios we use this
+00:25:43	Asish Kumar Nayak:	we can use model_dump() in place of dict() as it is deprecated in pydantic 2 version.
+00:25:47	naresh kumar:	model_dump()
+00:26:08	Amarendra Kushwaha:	yes
+00:26:11	Veerendra Shukla:	yes
+00:26:11	Mustafa Kamaal:	annotator
+00:26:12	Challagundla Sreenivasulu:	yeah
+00:26:15	kushalappa BE:	make it an API
+00:26:17	Veerendra Shukla:	With decorator
+00:26:29	Avinash Adsare:	s
+00:26:48	Amarendra Kushwaha:	put
+00:26:49	Prabhakar Kumar:	do we need to declare class user (basemodel) ?
+00:26:50	Shuvam Boxi:	put
+00:26:50	Saiyam jain:	put
+00:26:52	Shahid Raza:	PUT
+00:27:11	Prashant Rai:	i didnt understand User_UPdate function
+00:27:36	Prashant Rai:	what logic you written in User_Update function can you explain one more time
+00:27:54	Veerendra Shukla:	yes
+00:27:58	mohit sanger:	ues
+00:27:59	Mahender Singh thenua:	yes
+00:27:59	Pranav Ranjan:	yes
+00:28:00	Syed Waquaruddin:	yes
+00:28:00	Joe Wilson:	yes
+00:28:01	Ranjan Sahoo:	yes
+00:28:03	Selva Jeyaseelan:	is route like a folder structure?
+00:28:04	Amit Sharma:	Yse Sir Ji
+00:28:08	Saiyam jain:	yes
+00:28:11	Amarendra Kushwaha:	can i server db location
+00:28:17	Asish Mohanty:	route means path?
+00:28:41	Amarendra Kushwaha:	as route parameter
+00:28:56	Rakesh Patil:	dynamic route
+00:29:04	naresh kumar:	cant we pass userid in body itself ?
+00:29:05	Shahid Raza:	in body
+00:29:31	Shambhu jha:	route means --> the path which will be used to find the required function for executing.
+00:30:07	Mustafa Kamaal:	Sir can you give us 5 min to build this code??
+00:30:11	saurav lakra:	sir explain line 23
+00:30:31	sudhanshu kumar:	from fastapi import FastAPIfrom pydantic import BaseModelapp = FastAPI()user_db = {    1:{"name":"sudhanshu", "age": 30},    2:{"name": "amrendra", "age": 25},    3:{"name":"mustafa", "age": 28}}class User(BaseModel):    name:str    age:int@app.put("/user_db/data/v1/update/{user_id}")def user_update(user_id:int,user:User):    if user_id in user_db:        user_db[user_id] = user.dict()        return {"message": "User updated successfully", "user": user_db[user_id]}    else:        return {"message": "User not found"}
+00:30:45	naresh kumar:	cant we pass userid in body itself ?
+00:31:46	Prashant Rai:	line number 21 ka user_update function i dont understand
+00:31:58	veni Reddy:	Can you use git for sharing code? Instead of chat?
+00:32:18	Prashant Rai:	line 21 function can you explain one more time
+00:32:29	Challagundla Sreenivasulu:	ModuleNotFoundError: No module named 'fastapi'
+00:32:32	Amarendra Kushwaha:	no
+00:32:34	Veerendra Shukla:	no
+00:32:38	Joe Wilson:	cleared
+00:32:39	Veerendra Shukla:	yes
+00:32:43	Anoop Kumar Sharma:	yes
+00:32:48	veni Reddy:	ModuleNotFoundError: No module named 'fastapi' you have to install library
+00:32:48	Prashant Rai:	line 21 function nhi smjh aaya
+00:32:50	Prabhakar Kumar:	can you please help how to run
+00:32:54	Challagundla Sreenivasulu:	sure Sir
+00:33:13	Pranav Ranjan:	ERROR:    Error loading ASGI app. Attribute "app" not found in module "testing".
+00:33:18	Avinash Adsare:	last cammand?
+00:33:31	kartik mohindru:	put always require route param?
+00:33:41	Armaan Shaikh:	uvircorn testing:app --reload
+00:33:54	Amarendra Kushwaha:	uvicorn filename:app --reload
+00:33:57	Anoop Kumar Sharma:	I can see put api endpoint in docs.. how to view the all endpoints which we created yesterday in different file
+00:34:00	Ranjan Sahoo:	do we need to convert to dictionary everytime when we try to update?
+00:35:04	Saiyam jain:	for that you have run that file
+00:35:15	Amit Sharma:	While creating api end point the argument in our case is user_id  as dictonary , so argumwnt as dict , this is the Fastapi requirement ???
+00:35:26	Saiyam jain:	since this file contains only put  method that's why you can see only put method
+00:35:52	Avinash Adsare:	thanks @armaan
+00:35:53	veni Reddy:	INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     127.0.0.1:55595 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55595 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+00:35:54	Anoop Kumar Sharma:	But there should be a way to see all the endpoints.. added in different files
+00:36:12	Amit Sharma:	While creating api end point the argument in our case is user_id  as dictonary , so argumwnt as dict , this is the Fastapi requirement ???
+00:36:18	hemant gupta:	Error loading ASGI app. Could not import module "E".
+00:36:28	hemant gupta:	uvicorn E:/API_Testing/test.py:app --reload
+00:36:31	Ritesh Kumar:	clear sir
+00:36:31	Joe Wilson:	yes
+00:36:43	Divyanshu Vats:	what is user.dict()
+00:36:49	Bharadwaj V:	For those who are yet to install fastapipip install "fastapi[standard]"pip install uvicorn
+00:36:56	kartik mohindru:	@hemant change the directory to your files' location
+00:37:02	Manish D:	@hemant.. you need to use your directory
+00:37:23	hemant gupta:	How can i do that .. I am using absolute path
+00:37:26	Joe Wilson:	uvicorn <filename:<object> --reload
+00:37:39	Amarendra Kushwaha:	yes
+00:37:40	Anoop Kumar Sharma:	yes
+00:37:41	Avinash Adsare:	S
+00:37:41	Prodip Sarkar:	yes
+00:37:41	Syed Waquaruddin:	yes
+00:37:44	Shambhu jha:	we can use other port number if it is already used. something like below.
+uvicorn update_pydantic:app --reload --port 8001
+00:37:44	Ashish singh:	yes
+00:37:45	Joe Wilson:	yes
+00:37:49	Manish D:	for me it is showing "get"
+00:37:50	Vijay Kumar:	Yes
+00:37:51	Sarfaraz A:	Yes
+00:37:52	Abhrajit Pal:	yes
+00:38:19	Raj Dalsaniya:	Check in code yoy maybe put app.get route
+00:38:27	Asish Kumar Nayak:	@Divyanshu Vats what is user.dict() ?it means what ever you are going to provide in body in JSON format, it will be capture as dictionary
+00:38:44	Avinash Adsare:	sir what is 404 Not found error
+00:39:29	Shambhu jha:	hope you ran unicorn command?
+00:40:10	roja c:	can you share the complete code here
+00:40:15	Shahid Raza:	but if we do the get it will show the old recored only right as original dictionary has not been changed.
+00:40:31	Shahid Raza:	awesome
+00:40:41	Saiyam jain:	I have add get api
+00:40:42	Saiyam jain:	@app.get("/fetchUsers")def fetchUsers():    return {"registed_users":user_db}
+00:40:50	Saiyam jain:	like this
+00:41:23	hemant gupta:	@kartik , @manish  how to change file directory ? i am already there
+00:41:27	satish kumar:	@app.get("/fetchUsers")def fetchUsers():it is put not get
+00:41:29	muhammad arslan:	pass in return statment
+00:41:51	hemant gupta:	PS E:\Api_testing> uvicorn test.py:app --reload
+00:42:02	Prabhakar Kumar:	can you please ping the python run command
+00:42:10	hemant gupta:	file test.py is in e:\Api_testing
+00:42:12	Saiyam jain:	satish dear our objective is to fetch user for that we use get
+00:42:32	Santanu Haldar:	Chat pop up windows block kaise kre?
+00:42:40	Amarendra Kushwaha:	uvicorn test:app --reload
+00:42:50	Rakesh Patil:	@hemant cd api_testing
+00:42:56	Amarendra Kushwaha:	@hemant
+00:43:06	sudhanshu kumar:	from fastapi import FastAPIfrom pydantic import BaseModelapp = FastAPI()user_db = {    1:{"name":"sudhanshu", "age": 30},    2:{"name": "amrendra", "age": 25},    3:{"name":"mustafa", "age": 28}}class User(BaseModel):    name:str    age:int@app.put("/user_db/data/v1/update/{user_id}")def user_update(user_id:int,user:User):    if user_id in user_db:        user_db[user_id] = user.dict()        print(user_db)        return {"message": "User updated successfully", "user": user_db[user_id]}        else:        return {"message": "User not found"}
+00:43:07	arunava nag:	can u show another example for update
+00:43:17	Amit Sharma:	While creating api end point the argument in our case is user_id  as dictonary , so argumwnt as dict , this is the Fastapi requirement ???
+00:43:44	Avinash Adsare:	how to show updated db
+00:44:01	Selva Jeyaseelan:	Why is the updated db not showing in browser?
+00:44:44	Ritvik Chauhan:	what is the difference between put and patch both are for update
+00:46:14	Amarendra Kushwaha:	yes
+00:46:18	Shuvam Boxi:	Yes sir
+00:46:19	Ritesh Kumar:	yes sir
+00:46:20	Ranjan Sahoo:	yes
+00:46:21	Joe Wilson:	yes
+00:46:23	Avinash Adsare:	how to show updated db
+00:46:23	Sonu Kumar:	database connectivity se crud operation kaise kre ?
+00:46:25	Siddhartha Borpuzari:	getting error
+00:47:11	arunava nag:	samajh gaya..
+00:47:14	mukesh kumar:	How to see the update in the terminal, I am getting only ok
+00:47:27	roja c:	ERROR:    Error loading ASGI app. Could not import module "update".
+00:48:03	Armaan Shaikh:	sir mine is only user api part is remaining
+00:48:18	mohit sanger:	where to submit assignment ?
+00:48:46	kushalappa BE:	can the data be passed in the route itself?
+00:48:49	kartik mohindru:	can we quickly touch on mandatory vs optional params?
+00:48:51	Vaibhav Yaramwar:	Completed assignment successfully
+00:49:13	Amarendra Kushwaha:	yesterday was my office sir today i send u.
+00:49:17	Santanu Haldar:	Thank You sir . Now the chats are not disturbing anymore.
+00:49:23	Challagundla Sreenivasulu:	Sir we are lagging here and there as we didn't join lase week..what I do I go through from second class..and will start practicals and completing assignments
+00:49:29	mukesh kumar:	How to see the update in the terminal, I am getting only ok
+00:49:38	arunava nag:	wen we do :: then probelme :: then debug :: then learn by our own mistakes :: THANKS
+00:50:02	Prashant Rai:	in last class i face issue in POST when i use NGROK
+00:52:09	archit Mehrotra:	how is auto code coming in your system as helper, whereas in my system its not coming in same .py file
+00:52:18	sudhanshu kumar:	@app.delete("/user_db/data/v1/delete/{user_id}")    def delete_user(user_id:int):    if user_id in user_db:        del user_db[user_id]        return {"message": "User deleted successfully"}    else:        return {"message": "User not found"}
+00:52:41	sudhanshu kumar:	uvicorn testing:app --reload
+00:52:50	Amarendra Kushwaha:	yes
+00:53:10	Armaan Shaikh:	sir print  krdo
+00:53:38	Shahid Raza:	I love the swagger as it gives the curl command as well
+00:54:54	Prabhakar Kumar:	so postman and unicorn are same ?
+00:55:18	archit Mehrotra:	how is auto code coming in your system as helper, whereas in my system its not coming in same .py file
+00:55:49	Amarendra Kushwaha:	yes
+00:55:57	Manish G:	curl command is used with "  " rgt
+00:56:17	archit Mehrotra:	thanks Sir
+00:56:42	Santanu Haldar:	Sir aaj Sab kuch samajh aa rha hai. Yesterday was lagging behind. 👌👌👌
+00:56:42	Rakesh Patil:	yes
+00:56:44	Naji Aboo:	yes
+00:56:45	Anoop Kumar Sharma:	yes
+00:56:45	Avinash Adsare:	S
+00:56:48	Shivam Makwana:	yes
+00:56:50	veni Reddy:	Yes, both working perfectly
+00:56:53	Bharadwaj V:	Sir after deleting user_db[2], when I print user_db, it prints deleted user_id in .ipynb
+00:56:56	Ashish singh:	yes
+00:57:05	Vaibhav Yaramwar:	Loving this class
+00:57:07	Armaan Shaikh:	maza aara hai sir
+00:57:13	Prodip Sarkar:	I did excercise
+00:57:28	Armaan Shaikh:	sir working on it only user part is remaining first 2 done
+00:57:41	arunava nag:	        print(user_db)
+
+i ahave added to show after each delete option
+00:58:10	veni Reddy:	Ngrock not working on MAC any other alternative?
+00:58:39	veni Reddy:	Can we not do regular way of containerizing using docker and then aws?
+00:59:37	satyam mishra:	Unable to hear..
+01:00:11	Abhrajit Pal:	yes
+01:00:12	Armaan Shaikh:	s
+01:00:13	Santosh Vishwakarma:	yes
+01:00:14	Shahid Raza:	yes
+01:00:14	Krishnapratap Vedula:	Audible
+01:00:15	anil chalumuri:	yes
+01:00:15	Santanu Haldar:	yes
+01:00:15	naresh kumar:	audible
+01:00:15	Saiyam jain:	yes
+01:00:16	Shivam Makwana:	yup
+01:00:16	Pranav Ranjan:	yeah
+01:00:16	mukesh kumar:	audible sir
+01:00:17	Sumit Sahoo:	yes
+01:00:17	Joe Wilson:	audible
+01:00:18	Ashish singh:	yes
+01:00:19	saket kumar:	its fine
+01:00:19	Anoop Kumar Sharma:	yes audible
+01:00:20	Armaan Shaikh:	internet too
+01:00:22	Biswatosh Samal:	yes loud and clear
+01:00:29	veni Reddy:	I tried but saying corrupted. Will try again today and update
+01:00:51	Abhrajit Pal:	What is port forward in vs code
+01:02:12	Challagundla Sreenivasulu:	sir ngrok couldn't be downloaded
+01:02:16	Challagundla Sreenivasulu:	virus detected
+01:02:24	Challagundla Sreenivasulu:	can you suggest me here
+01:03:00	Chirag Tyagi:	pydantic
+01:03:01	Armaan Shaikh:	pydantic?
+01:03:05	Pranav Ranjan:	pydantic
+01:03:17	kartik mohindru:	can we use pip freeze?
+01:03:20	Prodip Sarkar:	Version mention Is mandatory
+01:03:29	Rakesh Patil:	pydentc bhi add karna hai kya
+01:03:30	arunava nag:	why not pydantic ?? is it inbuilt ??
+01:03:35	Chirag Tyagi:	don't we need to import pydantic?
+01:03:55	Shahid Raza:	GitHub…
+01:04:11	Ganesh Sahu:	it will be fastapi or FastAPI ?
+01:04:18	sudhanshu kumar:	https://render.com/
+01:04:50	Manish G:	done
+01:04:53	Chirag Anand:	Done
+01:04:57	Pranav Ranjan:	done
+01:04:58	Sayan Basu:	Done Sir
+01:05:07	Syed Waquaruddin:	done
+01:05:09	Rajesh Sharma:	version number should also match in requirements file.
+01:05:18	Rameshkumar Sellamuthu:	asking servie
+01:05:21	Amarendra Kushwaha:	yes
+01:05:22	Rameshkumar Sellamuthu:	service
+01:05:24	Abhrajit Pal:	yes
+01:05:30	Vijay Kumar:	Done
+01:05:32	Ajsal Mohammed T S:	done
+01:05:36	hemant gupta:	done
+01:05:41	Joe Wilson:	Done
+01:05:41	Rakesh Patil:	done
+01:05:42	Mustafa Kamaal:	done
+01:05:42	ashiq s:	done
+01:05:42	Mahesha A S:	done
+01:05:44	Santanu Haldar:	done
+01:05:48	Ashish singh:	yes
+01:05:49	manoj kumar:	done
+01:05:50	naresh kumar:	done
+01:05:50	Armaan Shaikh:	s
+01:05:50	Shivam Makwana:	done
+01:05:52	Rhumeet Bhatia:	done
+01:05:54	Aman Singh:	Done
+01:05:55	Jagadeesh B:	done
+01:06:00	Selva Jeyaseelan:	no
+01:06:01	anil chalumuri:	done
+01:06:04	Rameshkumar Sellamuthu:	is it free?
+01:06:04	Selva Jeyaseelan:	one moment
+01:06:06	Manish D:	no
+01:06:11	Prabhakar Kumar:	yes not able to login vai
+01:06:12	Saiyam jain:	done
+01:06:12	PAPA BA:	done
+01:06:12	Mahender Singh thenua:	done
+01:06:13	Avinash Adsare:	done
+01:06:18	Ritesh Kumar:	done sir
+01:06:20	Challagundla Sreenivasulu:	same gmail credentials?
+01:06:25	Rajesh Sharma:	yes logged-in
+01:06:27	Manish D:	static site or web service..which one need select
+01:06:30	Selva Jeyaseelan:	done
+01:06:35	satyam mishra:	done
+01:06:38	Sonu Kumar:	done
+01:06:38	Abhrajit Pal:	Might be first need to select singup
+01:06:39	Prodip Sarkar:	Done using github
+01:06:42	naresh kumar:	they try to login instead of sign up that's y nott able to create account
+01:06:43	Prashant Rai:	login done
+01:06:44	Bharadwaj V:	yes sir signed up & able to login
+01:06:50	Anoop Kumar Sharma:	done
+01:06:54	Siddhartha Borpuzari:	logged in using github
+01:06:59	Santanu Haldar:	Is it the same like we did in streamlit in FSDS?
+01:07:07	mohit sanger:	done
+01:07:15	Vaibhav Yaramwar:	Please show requirement.txt one more time
+01:07:16	Prodip Sarkar:	Through Google some issue occured
+01:07:19	Saiyam jain:	meantime sir how you find this free tools😅 which blogs keep you upto to date
+01:07:21	Md Akhtar:	done
+01:07:21	Prashant Rai:	i dont have github account so is it required for this excecise
+01:07:23	veni Reddy:	done
+01:07:29	Mandar Aarondekar:	done
+01:07:38	Rakesh Patil:	already was having login on render from the inuron 2021 nov batch Sunny savita
+01:07:51	Challagundla Sreenivasulu:	got it sir Thanks
+01:07:53	Rameshkumar Sellamuthu:	what is the capacity of storage for one account sir
+01:08:30	arunava nag:	our dashboard is different since we loggin for first time
+01:08:42	Santosh Vishwakarma:	how about Heroku?
+01:08:54	kushalappa BE:	Even with Shared machine, Will they not incur any cost?
+01:08:57	mukesh kumar:	my dashboard is bit different than yours
+01:09:04	mukesh kumar:	of render
+01:09:14	veni Reddy:	Hi Sudhanshu, are we going to do an end to end project in gene using ci/cd pipeline
+01:09:52	Selva Jeyaseelan:	not done
+01:09:52	Rajeev Dubey:	yes
+01:09:53	Challagundla Sreenivasulu:	me
+01:09:54	Manish D:	yes
+01:09:54	Prashant Rai:	I dont use
+01:09:54	mukesh kumar:	me
+01:09:55	Prodip Sarkar:	no
+01:09:56	mukesh kumar:	sir
+01:09:57	Prashant Rai:	so far
+01:09:58	mukesh kumar:	not done
+01:09:59	kartik mohindru:	none
+01:10:08	Rajeev Dubey:	No
+01:10:09	Manish D:	hahaha
+01:10:13	Manish D:	sahi pakade hai
+01:10:22	Rameshkumar Sellamuthu:	yes,we have sir
+01:10:22	Pranav Ranjan:	well played
+01:10:25	Sumit Sahoo:	🤣
+01:10:35	veni Reddy:	I have committed in github
+01:10:42	veni Reddy:	This one
+01:10:43	Prodip Sarkar:	GitHub action
+01:10:58	mukesh kumar:	is GitHub is free?
+01:11:18	sudhanshu kumar:	https://github.com/
+01:11:32	Avinash Adsare:	S
+01:12:08	Swapnil Kale:	can we deploy on github using VS code as well?
+01:12:42	Manish G:	Stack overflow 🫠
+01:13:11	veni Reddy:	Two GitHub accounts one for personal and one for professional (include these in resume) instead of having many private repositories in one account , this will be good idea
+01:14:17	Challagundla Sreenivasulu:	same issue with me sir
+01:14:18	Selva Jeyaseelan:	I agree
+01:14:22	satish kumar:	sir please also talk about the build of machine for NLP, Computer Vision, etc thank you
+01:15:19	veni Reddy:	I fail in network building and I struggle in getting job. Problem is they only refer if we have professional experience
+01:15:21	Syed Waquaruddin:	yes
+01:15:34	Prodip Sarkar:	yesss
+01:16:05	sudhanshu kumar:	https://git-scm.com/downloads
+01:17:30	Selva Jeyaseelan:	what path variable should we use?
+01:17:39	Selva Jeyaseelan:	what path variable should we use?
+01:18:25	Manish D:	yes
+01:18:26	Prodip Sarkar:	done
+01:18:27	Avinash Adsare:	Done
+01:18:30	Challagundla Sreenivasulu:	C:\Users\Lenovo>git'git' is not recognized as an internal or external command,operable program or batch file.
+01:18:52	Shivam Makwana:	done
+01:18:54	Anoop Kumar Sharma:	done
+01:18:55	Prabhakar Kumar:	yes
+01:18:55	Manish G:	done
+01:18:56	Arunprasaad Chandrasekaran:	done
+01:18:57	Rameshkumar Sellamuthu:	yes
+01:18:58	Joe Wilson:	Yes
+01:18:58	Santosh Vishwakarma:	yes
+01:19:00	Selva Jeyaseelan:	how to check if git is installed?
+01:19:01	hemant gupta:	done
+01:19:03	Ritesh Kumar:	done sir
+01:19:04	Anoop Pandey:	Done
+01:19:04	Saharsh Vemulapelly:	done
+01:19:13	GALI MALLIKARJUNA REDDY:	sir can you go little bit fast
+01:19:14	Selva Jeyaseelan:	thanks
+01:19:31	Rajeev Dubey:	yes Git installed
+01:20:41	veni Reddy:	We appreciate as we do understand these might be not new for us, in future there might be new concept for us. It gives confidence that we can follow as you do consider everyone the same way.
+01:20:56	Mustafa Kamaal:	Is render similar to AWS or GCP?
+01:21:25	Selva Jeyaseelan:	yes
+01:21:25	Armaan Shaikh:	s
+01:21:30	Krishnapratap Vedula:	Yes
+01:21:31	Manish G:	yes
+01:21:32	anil chalumuri:	yes
+01:24:13	navneet kumar:	this will happen in jypter note book
+01:24:47	Manish D:	roasted
+01:24:50	Armaan Shaikh:	hhahaha
+01:24:58	Shambhu jha:	hehehe
+01:25:00	Shambhu jha:	good one
+01:25:02	Armaan Shaikh:	sir itna sach nai bolna tha
+01:25:03	Mustafa Kamaal:	Good example
+01:25:13	Manish D:	saiyara
+01:25:15	P Gautham Pai:	we love your analogy xD
+01:25:42	Aman Singh:	__pyacache__ needed?
+01:26:08	Manish D:	fatal: unable to auto-detect email address (got 'dubey@Manish.(none)')
+01:27:26	Selva Jeyaseelan:	error:
+01:27:27	Selva Jeyaseelan:	Author identity unknown*** Please tell me who you are.Run  git config --global user.email "you@example.com"  git config --global user.name "Your Name"to set your account's default identity.Omit --global to set the identity only in this repository.fatal: unable to auto-detect email address (got 'Selva Jeyaseelan@SGMWIN.(none)')
+01:27:36	Sayan Basu:	error: src refspec main does not match anyerror: failed to push some refs to 'https://github.com/iSayanBasu/api.git'
+01:27:36	mukesh kumar:	@app.delete("/user_db/data/v1/delete/{user_id}")    def delete_user(user_id:int):    if user_id in user_db:        del user_db[user_id]        return {"message": "User deleted successfully"}    else:        return {"message": "User not found"}
+01:27:37	Pranav Ranjan:	yeah
+01:27:37	Krishnapratap Vedula:	Yes
+01:27:38	Anoop Kumar Sharma:	done
+01:27:38	Pranav Ranjan:	done
+01:27:39	Amarendra Kushwaha:	done
+01:27:43	Manish D:	sirt thoda back jaite pls
+01:27:48	Manish D:	email issue resolved
+01:27:51	Selva Jeyaseelan:	ok
+01:27:59	arunava nag:	so all files in that folder will be pushed
+01:28:01	Avinash Adsare:	error: src refspec main does not match any
+01:28:08	Manish D:	vs code pe jaieye pls 1 time only
+01:28:11	kaushal gupta:	Password authentication is not supported for Git operations  wrro coming
+01:28:13	Aman Singh:	__pyacache__ needed?
+01:28:18	Prashant Rai:	i install but it show git bash is install
+01:28:45	Rameshkumar Sellamuthu:	pydantic is missing in requirements.txt file sir
+01:28:46	sudhanshu kumar:	git branch -m master main
+01:28:50	Manish D:	git branch -M main --after this..what to do ?
+01:28:54	Anoop Pandey:	pls show vs code command to add add github
+01:29:10	Syed Waquaruddin:	The fingerprint for the RSA key sent by the remote host is
+SHA256:uNiVztksCsDhcc0u9e8BujQXVUpKZIDTMczCvj3tD2s.
+Please contact your system administrator.
+Add correct host key in /c/Users/swaqu/.ssh/known_hosts to get rid of this message.
+Offending RSA key in /c/Users/swaqu/.ssh/known_hosts:1
+Host key for github.com has changed and you have requested strict checking.
+Host key verification failed.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+01:29:59	navneet kumar:	can you teach live course big data also
+01:30:05	Santosh Vishwakarma:	Done
+01:31:23	mukesh kumar:	once again sir
+01:31:58	Shivam Makwana:	yeah
+01:32:04	Abhrajit Pal:	Yes able to see all repo
+01:32:12	Santanu Haldar:	Asking to install Render
+01:32:30	veni Reddy:	Repo should be public?
+01:32:30	Shahid Raza:	to all?
+01:32:40	veni Reddy:	Private will have any issues?
+01:32:43	Manish D:	yes showing everything
+01:32:46	Manish D:	excellent
+01:33:06	Avinash Adsare:	how to connect render
+01:36:02	Mustafa Kamaal:	Its like a docker image
+01:36:10	Prasad Gupta:	pydantic also required
+01:36:22	Vaibhav Yaramwar:	Unicorn command
+01:36:25	GALI MALLIKARJUNA REDDY:	uvicorn
+01:36:27	Prashant Rai:	nothing
+01:36:29	Santanu Haldar:	FASTAPI
+01:36:32	Manish D:	fastapi
+01:36:34	Abhrajit Pal:	uvicorn test:app --reload
+01:36:34	kushalappa BE:	uvicorn
+01:36:37	mukesh kumar:	unvicorn
+01:36:37	anil chalumuri:	uvicorn
+01:36:37	Manas Pandey:	Unicorn one
+01:36:38	Vaibhav Yaramwar:	Unicorn testing:app --reload
+01:36:40	Rajesh Sharma:	uvicorn
+01:36:41	Manish D:	yes
+01:36:42	naresh kumar:	uvicorn testing:app --reload
+01:36:43	Challagundla Sreenivasulu:	uvicorn
+01:36:59	P Gautham Pai:	if we have multiple file names?
+01:37:11	sudhanshu kumar:	uvicorn testing:app --host 0.0.0.0 --port 10000
+01:37:25	P Gautham Pai:	suppose i have, test.py and calculator.py
+01:37:26	Prashant Rai:	host and posrt will be same?
+01:37:30	Prashant Rai:	ok
+01:37:31	kushalappa BE:	port and host is customizable?
+01:37:38	P Gautham Pai:	can i give multiple commands
+01:38:02	Rameshkumar Sellamuthu:	--reload is missing sir
+01:38:06	sudhanshu kumar:	uvicorn testing:app --host 0.0.0.0 --port 10000
+01:38:10	veni Reddy:	Are these steps common for every project? If it is , can we document this?
+01:38:22	Rameshkumar Sellamuthu:	can we add --rekload
+01:38:29	Bharadwaj V:	sir can't we able to push directly to main branch?
+01:39:12	Manish G:	Done
+01:39:16	Armaan Shaikh:	build successfull
+01:39:26	Amarendra Kushwaha:	yes
+01:39:26	Manish G:	failed
+01:39:29	Ganesh Sahu:	yes
+01:39:29	Rajeev Dubey:	yes
+01:39:30	Anil M:	yes
+01:39:31	Dr Girish Supekar:	yes
+01:39:31	Raj Dalsaniya:	Yes
+01:39:31	Abhrajit Pal:	yes
+01:39:31	Krishnapratap Vedula:	Yes
+01:39:35	Chirag Anand:	not yet, in building stage
+01:39:36	Manish G:	exited with status 127
+01:39:37	Mahesha A S:	yes
+01:39:40	Shahid Raza:	yes for me as well
+01:39:43	Anoop Kumar Sharma:	Yes mine is also live :)
+01:40:00	Ritesh Kumar:	its live now
+01:40:16	Manish D:	Doing 1st time..this is in an excellent.. I am 100% sure . I will be learn lot of things in next 3 month
+01:40:34	sudhanshu kumar:	https://api-mhi6.onrender.com/docs
+01:40:43	anil chalumuri:	great
+01:40:44	Shahid Raza:	awesome thank you
+01:40:47	Anoop Kumar Sharma:	https://pythontestapi-xvk4.onrender.com/docs
+01:40:49	prodip sarkar:	Done
+01:40:53	Shivam Makwana:	superb working fine
+01:40:54	hemant gupta:	Still "inprogress"
+01:41:01	Krishnapratap Vedula:	Yes
+01:41:08	Pranav Ranjan:	bash: line 1: uvicorn: command not found
+01:41:09	veni Reddy:	Bad gateway error on render
+01:41:10	Shivam Makwana:	mine working too
+01:41:10	Md Akhtar:	is render host database also
+01:41:17	Prabhakar Kumar:	why we put /docs?
+01:41:23	Manish D:	from where you got this url
+01:41:27	Manish D:	please show again
+01:41:28	anil chalumuri:	Simple application hosted in cloud
+01:41:28	navneet kumar:	what is a/b testing
+01:42:01	Siddhartha Borpuzari:	Can we modify the render provided url like using our names etc ?
+01:42:08	Swapnil Kale:	I can see that it has changed to https while previously it was http.
+01:42:11	Md Akhtar:	is render host database also
+01:42:22	Shivam Makwana:	yes
+01:42:22	Saiyam jain:	https://apideployment.onrender.com/docs
+01:42:28	Manish D:	from where you got this url
+01:42:29	Shambhu jha:	what is difference deploying using render directly and docker way?
+01:42:31	Prashant Rai:	is there any diffrence bewteen NGROK and this Render
+01:42:32	Manish D:	please show again
+01:42:35	Joe Wilson:	Host sucessfully
+01:42:36	Saiyam jain:	yes
+01:42:37	Mahender Singh thenua:	do we need to delete this deployment after our testing so I can save our credits in cloud ?
+01:42:38	Santanu Haldar:	Yes
+01:42:38	Armaan Shaikh:	me
+01:42:38	Abhrajit Pal:	Able to see
+01:42:39	Bharadwaj V:	ERROR: Could not open requirements file: [Errno 2] No such file or directory: 'requirements.txt'
+01:42:40	Pranav Ranjan:	bash: line 1: uvicorn: command not found
+01:42:42	Chirag Tyagi:	working for me
+01:42:43	Raj Dalsaniya:	Done
+01:42:44	Manish D:	I am done
+01:42:45	Prashant Rai:	bceuase using it both url with GLoabl
+01:42:45	Sreenivasulu G:	yes able to see and tested
+01:42:46	Astajyoti Behera:	Yes
+01:42:46	Saiyam jain:	this is awesome https://apideployment.onrender.com/docs
+01:42:47	GALI MALLIKARJUNA REDDY:	done sir
+01:42:48	Chirag Tyagi:	done
+01:42:48	manoj kumar:	done
+01:42:49	Md Akhtar:	done
+01:42:49	Rajesh Sharma:	all good for me
+01:42:49	prodip sarkar:	Now get user in this file
+01:42:50	Sumit Sahoo:	yes
+01:42:52	Swapnil Kale:	done.
+01:42:52	Dr Girish Supekar:	done
+01:42:53	Siddhartha Borpuzari:	done for me
+01:42:54	Piyush Nandan:	done
+01:42:54	Raj Dalsaniya:	Yes working
+01:42:55	Bharadwaj V:	ERROR: Could not open requirements file: [Errno 2] No such file or directory: 'requirements.txt'
+01:43:02	Astajyoti Behera:	https://fastapi-testing-axt1.onrender.com
+01:43:03	Rameshkumar Sellamuthu:	can't we use --reload option on render?
+01:43:03	kushalappa BE:	is user_id 1 deleted. I am getting user not found. while testing put
+01:43:05	hemant gupta:	{"detail":"Not Found"}
+01:43:06	PAPA BA:	done
+01:43:06	Pranav Ranjan:	understood
+01:43:07	Pranav Ranjan:	thanks
+01:43:08	Anu L Sasidharan:	Working successfully
+01:43:08	Rhumeet Bhatia:	done
+01:43:11	Santosh Vishwakarma:	done and tested
+01:43:11	prodip sarkar:	Now get and post user in this file
+01:43:13	Ritesh Kumar:	It's Live now sir
+01:43:17	Astajyoti Behera:	https://fastapi-testing-axt1.onrender.com
+01:43:20	Sarfaraz A:	if you can show one more time connecting render to GitHub our checked in api path
+01:43:22	arunava nag:	so we can neglect ngrock with this approach ?
+01:43:26	Sarfaraz A:	sudhanshu
+01:43:29	Rajeev Dubey:	getting error as below PS D:\GenAI_Cert> git commit -m "first commit"  Author identity unknown*** Please tell me who you are.Run  git config --global user.email "you@example.com"  git config --global user.name "Your Name"to set your account's default identity.Omit --global to set the identity only in this repository.
+01:43:36	prodip sarkar:	Now get and post user in this file
+01:43:43	Shahid Raza:	that’s for test environment
+01:43:47	Aman Singh:	Whats that __pycache__ folder? Is it necessary?
+01:43:53	Shahid Raza:	in colure we normally all tested code.
+01:43:54	Amarendra Kushwaha:	after fail the how to restart
+01:43:55	Bharadwaj V:	no sir actually, maintained the file main branch still getting error in deploy
+01:43:58	Selva Jeyaseelan:	render error:Deploy failed for 3885881: first commitExited with status 1 while running your code. Check your deploy logs for more information.August 10, 2025 at 10:42 AM
+01:44:03	Anu L Sasidharan:	👍
+01:44:05	Aman Singh:	__pyacache__ folder needed?
+01:44:13	mukesh kumar:	PS D:\GenAIBootcamp> git push -u origin mainerror: src refspec main does not match anyerror: failed to push some refs to 'https://github.com/raj4datascience/api.git'PS D:\GenAIBootcamp>
+01:44:15	GALI MALLIKARJUNA REDDY:	https://api-testing-malli.onrender.com/docs
+01:44:18	Bharadwaj V:	no sir actually, maintained the file main branch still getting error in deployERROR: Could not open requirements file: [Errno 2] No such file or directory: 'requirements.txt'
+01:44:20	mukesh kumar:	getting this issue
+01:44:27	Chirag Anand:	working correctly
+01:44:49	Rajeev Dubey:	getting error as below >>>>>>>>>>>>>>>>>>>>PS D:\GenAI_Cert> git commit -m "first commit"  Author identity unknown*** Please tell me who you are.Run  git config --global user.email "you@example.com"  git config --global user.name "Your Name"to set your account's default identity.Omit --global to set the identity only in this repository.
+01:45:06	GALI MALLIKARJUNA REDDY:	sir can you teach us docker also
+01:45:26	kushalappa BE:	while testing both (Put & Delete), I got user not found
+01:45:43	arunava nag:	got it ... now its fulling from github ..so no outage
+01:45:46	Chirag Tyagi:	how long will this api remain live?
+01:45:47	Md Akhtar:	will render also having database  hosting to connect with api acess
+01:46:07	Chirag Anand:	how so I change the url name?
+01:46:07	Shivam Makwana:	done
+01:46:08	mukesh kumar:	no sir
+01:46:11	mukesh kumar:	having issue
+01:46:12	Amarendra Kushwaha:	done
+01:46:20	Mahender Singh thenua:	do we need to delete this deployment after our testing so I can save our credits in cloud ?
+01:46:27	kushalappa BE:	can you please test the deployment
+01:46:32	Mahender Singh thenua:	do we need to delete this deployment after our testing so I can save our credits in cloud ?
+01:46:33	Avinash Adsare:	without github connect can we paste public repo
+01:46:37	Pranav Ranjan:	done
+01:46:43	kartik mohindru:	if we us pydentic all the variables become mandatory,can we make some of the variables optional?
+01:46:47	Shahid Raza:	yes
+01:46:47	Rameshkumar Sellamuthu:	yes sir
+01:46:47	anil chalumuri:	Nice learning
+01:46:50	Shivam Makwana:	yeah
+01:46:56	GALLA VENKAT:	yes
+01:46:58	Md Akhtar:	will render also having database  hosting to connect with api acess
+01:46:58	Mahender Singh thenua:	do we need to delete this deployment after our testing so I can save our credits in cloud ?
+01:47:04	GALI MALLIKARJUNA REDDY:	ss
+01:47:09	Saiyam jain:	this platform is great also support auto deploy
+01:47:20	Saiyam jain:	without configuring
+01:47:24	Mahender Singh thenua:	do we need to delete this deployment after our testing so I can save our credits in cloud ?
+01:47:33	Raghu Teja:	If we update the code in GitHub will render automatically get the new changes?
+01:47:37	Mahender Singh thenua:	do we need to delete this deployment after our testing so I can save our credits in cloud ?
+01:47:38	Shahid Raza:	how to stop the service sir
+01:47:40	mohit sanger:	https://api-xh9n.onrender.com/
+my api not working
+01:47:54	Rameshkumar Sellamuthu:	where is the auto deploy option sir
+01:48:13	Ganesh Sahu:	is it possible to expose database from local and expose and use the same url from cloud
+01:48:15	Chirag Tyagi:	how long will this api remain live?
+01:48:21	Chirag Tyagi:	on render
+01:48:32	arunava nag:	only one bottleneck -  i think we need a machine WITH ALL PERMISSIONS... office laptop will not do .. can u spend sometime on suggesting something in 70K range with GPU
+01:49:47	Anu L Sasidharan:	Do we need to stop or delete the deployed app from render?
+01:51:08	Santosh Vishwakarma:	Thats why you are best in the market
+01:51:50	Shahid Raza:	I hope that we are going to learn huggingface ecosystem.
+01:53:42	Shambhu jha:	dictate vs voice --> what is difference in euri chat?
+01:54:38	Manish D:	Will you also teach Agentic AI and Multi Agentic AI ?
+01:55:07	Shahid Raza:	sir 120b would be costing you more right for deployment on clause
+01:55:07	manoj kumar:	Do we have speed to text model
+01:56:18	Vipin Vishal:	yes
+01:56:22	Shahid Raza:	yes
+01:56:24	GALLA VENKAT:	yes
+01:56:25	anil chalumuri:	yes
+01:56:26	Asish Kumar Nayak:	yes
+01:56:31	Ganesh Patil:	Yes
+01:57:03	Anoop Kumar Sharma:	there is no search limit in "https://chat.euron.one/"? Daily limit is only for the euri API? Please correct if I am wrong
+01:58:51	Rameshkumar Sellamuthu:	Bearer is also required everytine?
+02:01:19	arunava nag:	your are opening this in powershell ??  normal cmd is not taking multiline input
+02:02:10	Shahid Raza:	ok
+02:03:51	Dr Girish Supekar:	yes
+02:03:52	Shivam Makwana:	yes
+02:03:52	Joe Wilson:	yes
+02:03:53	Krishnapratap Vedula:	Yes
+02:03:54	Pranav Ranjan:	yes
+02:03:55	Manish D:	yes
+02:04:23	Veerendra Shukla:	When will we use embedding endpoint?
+02:04:36	Manish D:	can we also chek the log on render?
+02:05:25	Shahid Raza:	body
+02:06:36	Saiyam jain:	sir are we covering unittest or pytest use case writing for this api which we have developed now ? if we can take this in doubt session it would be helpful
+02:07:37	Aman Singh:	How to get downloadable images?
+02:07:53	Bharadwaj V:	curl: (35) schannel: next InitializeSecurityContext failed: CRYPT_E_NO_REVOCATION_CHECK (0x80092012) - The revocation function was unable to check revocation for the certificate.
+02:07:55	mukesh kumar:	ca you showcase test to speech
+02:07:58	mukesh kumar:	one example
+02:07:59	Bharadwaj V:	sir getting this errorcurl: (35) schannel: next InitializeSecurityContext failed: CRYPT_E_NO_REVOCATION_CHECK (0x80092012) - The revocation function was unable to check revocation for the certificate.
+02:08:06	prodip sarkar:	How to convert Bad quality image to high quality image through model
+02:08:16	arunava nag:	can we create multiple api keys ?? why is it required ?
+02:09:01	Shambhu jha:	what model is best for speech to text?
+02:09:42	Bharadwaj V:	sir getting this error, anyone have idea?curl: (35) schannel: next InitializeSecurityContext failed: CRYPT_E_NO_REVOCATION_CHECK (0x80092012) - The revocation function was unable to check revocation for the certificate.
+02:10:32	prodip sarkar:	How to convert Bad quality image to high quality image through model
+02:10:33	Rajesh Sharma:	how single euri api key is able to access models from diff providers? is it through proxy api?
+02:11:00	roja c:	how can we disconnect from the render live app
+02:12:13	Shahid Raza:	can we create our own SDK?
+02:12:51	Shahid Raza:	can you share the link?
+02:12:56	Shahid Raza:	our group?
+02:12:59	Ritesh Kumar:	with one API key we can access all endpoints?
+02:13:03	Ashay G:	is euri like groq ?
+02:13:19	Rajesh Sharma:	how single euri api key is able to access models from diff providers? is it through proxy api?
+02:13:30	prodip sarkar:	How to convert Bad quality image to high quality image through model
+02:13:35	muhammad arslan:	sir in you product which tech stack u are used????
+02:13:37	arunava nag:	why mutliple API keys are required then ?
+02:13:37	mukesh kumar:	can we use your auriapi in my organisation
+02:13:42	Bharadwaj V:	sir getting this on running commands, any prerequisite to be doneschannel: next InitializeSecurityContext failed: CRYPT_E_NO_REVOCATION_CHECK (0x80092012) - The revocation function was unable to check revocation for the certificate.
+02:13:54	Raghu Teja:	can you give a brief note on how these LLMs are created?
+02:14:07	Ayush Giri:	A small question where we upload our assignments sir ?
+02:14:07	Ashay G:	is euri like groq ?
+02:14:13	muhammad arslan:	sir in you product which tech stack u are used????
+02:14:15	mukesh kumar:	but that will be compliance if used in org.?
+02:14:36	naresh kumar:	its very useful if you make unused tokens today carry forward
+02:14:36	arunava nag:	what is USE CASE -- for multiple API keys ?? why would they be required ?
+02:14:36	prodip sarkar:	How to convert Bad quality image to high quality image through model
+02:14:37	Bharadwaj V:	sir getting this on running commands, any prerequisite to be doneschannel: next InitializeSecurityContext failed: CRYPT_E_NO_REVOCATION_CHECK (0x80092012) - The revocation function was unable to check revocation for the certificate.
+02:14:44	manoj kumar:	How are u providing these many tokens hit at no price
+02:15:02	naresh kumar:	its very useful if you make unused tokens today carry forward
+02:15:33	Sakti Mishra:	what is bearer
+02:15:36	Shahid Raza:	Awesome…
+02:15:42	manoj kumar:	are we doing any project on ai voice
+02:15:44	muhammad arslan:	sir in you product which tech stack u are used????
+02:16:03	Rameshkumar Sellamuthu:	+
+02:16:12	prodip sarkar:	Next week which topic discuss
+02:16:32	Shahid Raza:	ok
+02:16:45	Mustafa Kamaal:	Sir can you give us some assignment from today’s class??
+02:16:46	fijula Azhikoden:	Great sessions as its pure hands on , as someone who listens to lectures and walk around, u make me sit with hands-on from start to end 🚀a great start of awesome journey with the team
+02:16:57	veni Reddy:	I am new to vector database, do you want us to read something or practice before class?
+02:17:09	Shivam Makwana:	superb class today
+02:17:38	kushalappa BE:	So Have we completed the 1st Portion of the curriculam provided in the course overview?
+02:17:38	Mustafa Kamaal:	Sir can you give us some assignment from today’s class??
+02:17:39	veni Reddy:	Where can we learn and experiment about Curl?
+02:17:43	Veerendra Shukla:	Thanks !
+02:17:44	Shahid Raza:	it’s kind of RAG?
+02:17:45	muhammad arslan:	you also teach popular embeding techniques like glove wordtovec??
+02:18:45	satish kumar:	sir please also talk about the build of machine for NLP, Computer Vision, etc thank you
+02:18:46	Sarfaraz A:	able to make it live https://api-ho3v.onrender.com/docshow we can push the updated files or code to render api app to update the existing api code on render
+02:18:55	prodip sarkar:	Any upload the videos of master class
+02:18:56	Mustafa Kamaal:	Sir can you give us some assignment from today’s class??
+02:18:59	veni Reddy:	Homework will be posted?
+02:19:00	Anu L Sasidharan:	Thank you sir. Good Night
+02:19:01	PAPA BA:	THANKS
+02:19:04	Sayan Basu:	Thank you Sir
+02:19:11	Prabhakar Kumar:	Hi, I need to just under some point
+02:19:16	Manish D:	Thank you so much !
+02:19:17	muhammad arslan:	you also teach popular embeding techniques like glove wordtovec??
+02:19:38	Sumit Sahoo:	where can I submit assignment sir...I have completed it
+02:19:40	roja c:	how can we disconnect or stop running the live app from the render
+02:19:40	Shahid Raza:	How to stop our server, which we have hosted on Render.
+02:19:52	Krishnapratap Vedula:	Where can i find previous assignment?
+02:19:56	veni Reddy:	Sure, working on assignments will help
+02:20:25	Shambhu jha:	Can you tell me what is difference between Dictate and voice mode in euri chat?
+02:20:33	Prashant Rai:	is vire python cover oops concept
+02:20:33	fijula Azhikoden:	Great sessions as its pure hands on , as someone who listens to lectures and walk around, u make me sit with hands-on from start to end 🚀a great start of awesome journey with the team
+02:20:48	arunava nag:	only one bottleneck -  i think we need a machine WITH ALL PERMISSIONS... office laptop will not do .. can u spend sometime on suggesting something in 70K range with GPU
+02:20:48	Shahid Raza:	How to stop our server, which we have hosted on Render.
+02:20:50	Aman Singh:	No complaints
+02:20:51	Dr Girish Supekar:	thank you sir
+02:20:52	MANISH G:	loved it
+02:20:52	Manish D:	not at all
+02:20:56	Aman Singh:	Great class
+02:20:56	Armaan Shaikh:	no complaints
+02:20:58	Fayaz Antapur:	awesome
+02:20:59	Prashant Rai:	is corr python cover oops concept as well
+02:21:00	Shahid Raza:	so far it’s going great
+02:21:00	prodip sarkar:	Any upload the videos of master class
+02:21:06	prodip sarkar:	Any upload the videos of master class
+02:21:06	Aman Singh:	You are a great mentor
+02:21:08	Vijay Kumar:	It is fun to learn in this way
+02:21:33	P Gautham Pai:	you are amazing, just looking forward for understanding real time projects, Sudhanshu
+02:21:43	Prashant Rai:	I face problem to install git
+02:22:02	Challagundla Sreenivasulu:	Sir core python means ..can you please confirm what and all we should be aware at high level
+02:22:08	prodip sarkar:	Any plan to upload the videos on master class
+02:22:16	Aman Singh:	How your writing is so good with mouse ?
+02:22:27	kushalappa BE:	We have completed the 1st portion of the curriculam provided in the course overview?
+02:22:31	Sarfaraz A:	Sudhanshu.. can you split the video into 2 part...actual teaching one recording Part1 and discussion second part recording Part2
+02:22:34	Mustafa Kamaal:	Sir while explaining these, if at anytime something important comes from interview perspective. Can you please specify it during lecture that xyzzy comes in interview, or this topic is most commonly asked in interview, or something like that??
+02:22:46	prodip sarkar:	Any plan to upload the videos on master class
+02:22:56	Anirudha M:	pause karke dekh lena
+02:22:56	Siddhartha Borpuzari:	is ngrok and render use similar overall ?
+02:23:05	Shahid Raza:	How to stop our server, which we have hosted on Render.
+02:23:12	Ayush Giri:	I wanted to know for assignments upload how do we do that ? joined later to the bootcamp thats why asking
+02:23:16	Manish D:	dropping now.. Thank you sir !
+02:23:25	prodip sarkar:	Any plan to upload the videos on master class
+02:23:29	Ravikumar Pareet:	Thank you!
+02:23:36	veni Reddy:	See you in next class.
+02:23:50	Sayan Basu:	Thank you again Sir
+02:23:52	Ritesh Kumar:	Thank u sir
+02:23:58	arunava nag:	5 min
+02:23:59	Shahid Raza:	yes
+02:23:59	kartik mohindru:	sure
+02:23:59	Armaan Shaikh:	sure
+02:24:00	hemant gupta:	Sure
+02:24:00	mohit sanger:	no
+02:24:00	Mustafa Kamaal:	Yes, break please
+02:24:01	Ganesh Sahu:	sure
+02:24:01	Prabhakar Kumar:	sure
+02:24:02	Challagundla Sreenivasulu:	ya
+02:24:05	Raj Dalsaniya:	Yes sir
+02:24:09	Sarfaraz A:	yes 5min
+02:25:10	Swapnil Kale:	Thank you sir
+02:30:14	roja c:	how can we disconnect or stop running the live app from the render
+02:30:33	Selva Jeyaseelan:	i want to share screen
+02:30:43	MANISH G:	i want share the scrren
+02:30:45	prodip sarkar:	Any plan to upload the videos on master class
+02:30:49	hemant gupta:	Want to share screen
+02:30:50	mukesh kumar:	need to share my screen
+02:30:52	mohit sanger:	like to share screen
+02:31:04	Bharadwaj V:	I wanted to share screen sir
+02:31:05	Armaan Shaikh:	screen share sir
+02:31:44	Armaan Shaikh:	need to share my screen
+02:31:50	Rameshkumar Sellamuthu:	i have question
+02:31:54	Shahid Raza:	I have one quick question
+02:33:53	Prasad Gupta:	Please explain the options for working in organizations without depending solely on Euri APIS
+02:34:26	Ganesh Patil:	Can we give image as input with the message promt and out based on input image?
+02:38:13	Tannishtha Das:	Hi Sudhanshu,
+
+One query as per the course  content mentioned are we going to cover below topics before starting of Embeddings&vector database in Next week's class
+or is the below mentioned topics going to be covered after that
+
+Introduction to Generative AI
+(Tools and Platforms open AI, Hugging face)
+How GenAI Products are Built
+
+Essential Tools and Skills
+(Introduction to Vibe coding , Automation tools overview n8n,Zapier)
+02:42:43	Rameshkumar Sellamuthu:	Cmd prompt, you have to pass \\""  before "" quote
+02:42:48	Rameshkumar Sellamuthu:	then it works
+02:45:01	mukesh kumar:	hi sir, let me know if I can share my screen. after arunavan
+03:00:52	Shahid Raza:	may i go next i have quick question.
+03:08:45	satish kumar:	he want to see UI
+03:09:17	mohit sanger:	@app.get("/")
+def home():
+    return {"message": "Welcome to the User API. Use /docs to explore."}
+add this in your code
+03:10:33	Amit Sharma:	sir my power went , i have some general points that i need to discuss,not sharing the screen please allow
+03:11:23	sudhanshu kumar:	@app.get("/users/{username}")async def get_user(username: str):    if username in fake_users_db:        return fake_users_db[username]  # Return the user data if found    return {"message": "User not found"}  # If user is not found
+03:13:25	Shahid Raza:	pass in double quote
+03:13:43	Anil M:	Hi Sudhanshu, its regarding Web Service
+03:15:53	Shahid Raza:	don’t we pass user name in double quote?
+03:17:19	Armaan Shaikh:	try in postman sir
+03:17:57	Shahid Raza:	if you see the datatype is string
+03:18:00	Sulaxmi R:	Username is str in function but its actually int
+03:18:05	satish kumar:	do we need to give print statement?
+03:18:31	Shahid Raza:	if you see the end point that is accepting as string
+03:19:52	Bharadwaj V:	is it cache in browser
+03:20:15	Sulaxmi R:	@app.get("/")
+async def root():
+    return {"status": "ok"} — this worked for me for this http error
+03:21:15	Shahid Raza:	http://127.0.0.1:8000/user/alice
+03:21:23	Fayaz Antapur:	he has stopped service
+03:21:27	Shahid Raza:	he is passing the id but he has to pass name
+03:21:30	Ganesh Sahu:	write get in caps
+03:21:57	Shahid Raza:	but that method is looking based on the stirng
+03:22:04	Shahid Raza:	@app.get("/user/{username}")
+def get_user_by_username(username: str):
+  for user_id, user in user_db.items():
+    if user["name"].lower() == username.lower():
+      return {"user_id": user_id, "user": user}
+  return {"message": "User not found"}
+03:22:21	Shahid Raza:	end point: http://127.0.0.1:8000/user/alice
+03:23:58	Ganesh Sahu:	user_id
+03:24:07	Ganesh Sahu:	instead of user name
+03:30:54	Vipin Vishal:	some SSL auth issue
+03:30:55	mukesh kumar:	wanted to share my screen sir,
+03:30:58	Vipin Vishal:	it seems
+03:31:50	Vipin Vishal:	in curl at the end we can add --ssl-no-revoke\
+03:33:00	Vipin Vishal:	firewall block may be
+03:34:19	Shahid Raza:	can you ping that command for future reference.
+03:38:59	Prashant Rai:	sir i also facimg some issue in code
+03:39:06	Anil M:	hi Sudhanshu, not getting option to share the screen
+03:39:09	Prashant Rai:	can i share screen and shows
+03:44:45	arunava nag:	it shud be API_TESTING/ not api/API_TESTING/
+03:45:14	Anil M:	api not required
+03:50:22	Anil M:	My doubt also cleared, thanks Sudhanshu
+03:59:09	kunj rastogi:	hi i am very confused like i am know gen ai and i make many project but this time i am not recognize the thing so i follow this batch and i am in 4th yr so now i am very confused like in campus company want dsa and i am not gud in dsa so what i do follow this batch or another batch for learn fast ?
+03:59:26	Prasad Gupta:	Please explain the options for working in organizations without depending solely on Euri APIs
+04:01:21	Prasad Gupta:	thanks sir
+04:09:47	Prashant Rai:	sir aap j approach padha rahe ho wahi best hai
+04:10:31	Krishnapratap Vedula:	Practice is required. Do mistakes and rectify it.
+04:11:08	satish kumar:	I agree with you sir
+04:21:23	satish kumar:	than you sir … have a nice day
