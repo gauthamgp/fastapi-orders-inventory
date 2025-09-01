@@ -21,7 +21,7 @@ def main():
     assert_status(r, 200)
 
     # 2) Create product
-    prod_payload = {"sku":"SKU-300","name":"Widget","price":9.99,"stock":3}
+    prod_payload = {"sku":"SKU-500","name":"Widget","price":9.99,"stock":3}
     r = requests.post(f"{BASE_URL}/products", json=prod_payload)
     assert_status(r, 201)
     product = r.json()
