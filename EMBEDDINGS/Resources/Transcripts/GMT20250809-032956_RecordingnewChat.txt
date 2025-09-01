@@ -1,969 +1,0 @@
-00:00:47	Nityanand Pandey:	Good Morning Everyone
-00:00:48	Rishabh Singh:	Good morning sir
-00:00:50	Abhisheek Dutta:	Good Morning, Sir.
-00:00:53	satish kumar:	Good morning sir
-00:00:54	Abhisheek Dutta:	Yes
-00:00:56	Veerendra Shukla:	yes
-00:00:58	VENKATA CHINTALAPATI:	yes
-00:00:59	Pranav Ranjan:	good morning everyone
-00:01:00	Vaibhav Yaramwar:	Good Morning
-00:01:06	Shuvam Boxi:	Good Morning Sir
-00:01:07	Anoop P:	
-Good morning sir
-00:01:07	Rajesh Sharma:	Hello
-00:01:10	Avinash Adsare:	GM Sir
-00:01:12	Arunava Nag:	gpt5 ka tandav
-00:01:14	Ritesh Kumar:	Good Morning Sir
-00:01:19	Rajeev Dubey:	Good Morning Sir
-00:01:20	kushalappa BE:	Good morning All!
-00:01:21	Aarya Naik:	Good Morning Sir
-00:01:32	Easa Shaik:	good morning
-00:01:36	Rajeev Dubey:	Good Morning Everyone
-00:01:36	Abhishek Kumar:	Good morning everyone
-00:01:45	Pranav Ranjan:	5 mins Sudhanshu, I ll be right back. excited to learn about api. i mean I used to hear about it and used it a couple times but really did not understand it. so excited
-00:01:51	Piyush Nandan:	good morning sir
-00:01:54	PATANJALI SHARMA:	good morning everyone
-00:01:57	Imtiaz Choudhury:	Good evening from NYC. 🙂
-00:02:00	mukesh kumar:	good morning, good afternoon, good evening everyone
-00:02:27	Veerendra Shukla:	Is there any plan to do a project in the program?
-00:03:18	Vijay Gurung:	Good Morning Sir & Wishing you a very Happy Raksha Bandhan, Sir !
-00:03:34	Madhav Chopra:	no voice
-00:03:52	Madhav Chopra:	has the class started ??
-00:03:53	Manish D:	Happy Raksh bandhan to everyone !
-00:03:55	Ganesh Sahu:	Very Good Morning Sir
-00:04:17	Gopi Krishna Pujari:	Good morning sir.
-00:04:21	Shahid Raza:	Good Morning...
-00:04:43	Prodip Sarkar:	Good morning
-00:04:43	chandra D:	Good Morning Sir
-00:04:54	Rajkiran Keer:	Very Good Morning.
-00:04:56	Kaushal Kumar:	good morning sir
-00:04:58	kushalappa BE:	Happy Rakshabandhan All!
-00:05:02	Ritik Varshney:	we have lot of backend framework for making api and are more fast abd scalable then fastapi. so we are using the fastapi for making api
-00:05:03	sneha bisai:	Hi good morning
-00:05:11	Kaushal Kumar:	Happy rakshabandhan everyone
-00:05:17	Prodip Sarkar:	Fast api
-00:05:20	Piyush Nandan:	happy rakshbbandhan sir
-00:05:21	Mahender Singh:	WISHING YOU A HAPPY RAKSHABANDHAN
-00:05:31	sneha bisai:	Happy Rakshabandhan to everyone
-00:05:32	Ritik Varshney:	we have lot of backend framework for making api and are more fast abd scalable then fastapi. so we are using the fastapi for making api
-00:05:55	Imtiaz Choudhury:	Happy Rakshabandhan!!!
-00:06:30	Fayaz Antapur:	need to know how to use euri api
-00:06:46	Ganesh Sahu:	yes
-00:06:46	Shuvam Boxi:	yes
-00:06:47	Abhisheek Dutta:	yes
-00:06:47	chandra D:	yes
-00:06:47	Abhishek Kumar:	yes
-00:06:47	Syed Waquaruddin:	yes
-00:06:48	VENKATA CHINTALAPATI:	yes
-00:06:49	Veerendra Shukla:	yes
-00:06:50	Shahid Raza:	yes
-00:06:50	Supreeth Shetty:	yes sir
-00:06:50	Anirudh Yarlagadda:	Yes
-00:06:50	sneha bisai:	yes
-00:06:51	Challagundla Sreenivasulu:	ya
-00:06:53	Anoop Kumar Sharma:	yes
-00:06:54	Pundarikaksh Narayan Tripathi:	Yes
-00:06:55	Armaan Shaikh:	sir just started?
-00:07:11	Aman Thenuan:	good morning sir
-00:07:15	Veerendra Shukla:	good
-00:08:30	Arunava Nag:	at end of class.. pls share some thoughts on gpt5 and how it will/wont shape generative ai jobs
-00:16:49	Rameshkumar Sellamuthu:	ICCI has different platform with .net but icic has java, how are they communicate the function with different language? call from icci and defining function i s hdfs..how does it understand sir?
-00:16:58	Aditya Rai:	Good Morning Sir.
-00:17:25	chandra D:	loosely coupled architecture
-00:17:45	Saiyam jain:	through api communication layer
-00:17:59	Shahid Raza:	all system returns response in a single format which helps system to communicate easily. using JSON
-00:18:05	chandra D:	API calling
-00:18:20	Shahid Raza:	REST.
-00:18:42	krishna kv:	Could you take one entire full cycle of communication example and explain API?
-00:18:45	Shivam Makwana:	Good morning, sir. If possible, can you give me a quick recap? I’m running late today sorry about that.
-00:20:22	Veerendra Shukla:	yes
-00:20:25	Shuvam Boxi:	yes
-00:20:26	Arunava Nag:	so API protocol is standard across the world
-00:20:26	Sumit Sahoo:	yes
-00:20:26	kushalappa BE:	yes
-00:20:26	Shahid Raza:	yes
-00:20:26	Pundarikaksh Narayan Tripathi:	yes
-00:20:27	prabhat kumar:	yes sir
-00:20:27	Md Sharique:	ys
-00:20:27	Avinash Adsare:	yes
-00:20:27	Anoop Kumar Sharma:	Yes
-00:20:27	Nityanand Pandey:	yes
-00:20:28	Abhisheek Dutta:	Yes
-00:20:28	Rajkiran Keer:	yes
-00:20:28	Vijay Kumar:	yes
-00:20:29	chandra D:	yes
-00:20:30	Rishabh Singh:	yes sir
-00:20:30	anil chalumuri:	yes
-00:20:31	Kaushal Kumar:	yes
-00:20:33	Imtiaz Choudhury:	Yes…
-00:20:34	Ajsal Mohammed T S:	yes sir
-00:20:34	Sarfaraz A:	Yes
-00:20:35	P Gautham Pai:	Never seen anyone explain this cleam
-00:20:39	P Gautham Pai:	and neat
-00:20:43	Prashant Rai:	Thoda baut aaya hai smh
-00:21:21	Saiyam jain:	yes api is set of rules or protocol which  act as bridge which help us to communicate with homo and hetro system
-00:21:41	Rameshkumar Sellamuthu:	if we have 100 records from source, would it transfer the json at a time or part by part to server?
-00:22:18	Shahid Raza:	it depends on your API how have you designed. it can have all in one.
-00:22:21	Jatin Chandna:	Raksha Bandhan - 7% offer..
-00:28:16	kartik mohindru:	can you share a reference of having both terminal and windows powershell on windows?
-00:29:00	Rameshkumar Sellamuthu:	please explain the argument understaning on the curl command sir
-00:29:11	chandra D:	Can you run on windows sir
-00:29:29	Saiyam jain:	postman se kar lo sir
-00:29:34	Md Sharique:	only we have to paste curl on terminal and hit for reaching to API
-00:29:44	Shahid Raza:	remove the single quote at the end
-00:29:59	Aman Singh:	postman is easy sir
-00:30:15	navneet kumar:	what is a\b testing
-00:30:39	Arunava Nag:	terminal means normal cmd ?
-00:31:00	archit Mehrotra:	what is curl?
-00:31:22	Shahid Raza:	it’s same as command prompt in windows
-00:31:29	kushalappa BE:	does "curl" mean Request?
-00:31:33	Shahid Raza:	yes
-00:31:42	navneet kumar:	not getting
-00:31:48	Mustafa Kamaal:	Will we cover FastAPI?
-00:32:25	Rameshkumar Sellamuthu:	what is the volume of data can carry with one api request? i mean max tokens..on what basis do we set and increase sir?
-00:32:28	navneet kumar:	why doing this
-00:32:50	archit Mehrotra:	Please repeate the steps again
-00:32:55	Anoop Kumar Sharma:	to understand How to call the API..
-00:32:58	Rameshkumar Sellamuthu:	why there is 2 question?
-00:33:28	Rameshkumar Sellamuthu:	What is AGI and I didn't get it both question are passed?
-00:33:49	Praveen Maurya:	Tokens means no of words will be returned as o/p ?
-00:34:03	Md Sharique:	these APIs are for various models???but there are more for other purposes as well
-00:34:16	Arunava Nag:	terminal means ? is it normal cmd ?
-00:34:28	Rameshkumar Sellamuthu:	why do we pass Bearer
-00:34:29	Saiyam jain:	yes nag
-00:34:42	Shuvam Boxi:	yes
-00:34:43	Mandar Aarondekar:	yes
-00:34:43	Sumit Sahoo:	yes
-00:34:45	Joe Wilson:	yes
-00:34:45	Vaibhav Yaramwar:	yes
-00:34:46	anil chalumuri:	yes sir
-00:34:47	Rajesh Sharma:	all good
-00:34:48	Arunava Nag:	thak Saiyam
-00:34:48	Ashish singh:	yes
-00:34:49	Rajkiran Keer:	yes
-00:34:51	Saiyam jain:	yes
-00:34:52	Anoop Kumar Sharma:	yes
-00:34:53	Gopi Krishna Pujari:	yes
-00:34:55	Prithivi V G:	yes
-00:35:21	Shahid Raza:	In windows it’s called cmd and Linux/Unix/MacOs that is  called terminal
-00:35:41	Selva Jeyaseelan:	Where is the gpt model stored? In Euron server or Open AI server?
-00:35:49	Rameshkumar Sellamuthu:	why do we pass 2 question on the body?
-00:36:03	Rajeev Dubey:	what is the meaning of token is here?
-00:36:21	Anoop Kumar Sharma:	Authorization token can be of two type either basic or bearer. The key generated here use the bearer auth.
-00:37:54	Manish D:	How we can make it dynamic for data if we are trying to hit the url ?
-00:38:01	navneet kumar:	not understanding
-00:39:12	Satish Kawale:	HTTPS NEEDS SSL CERTIFICATION
-00:40:06	Rameshkumar Sellamuthu:	what is the volume of load carrying at one api request? on what basis do we set the rules?
-00:40:16	Md Sharique:	your mic is making noise sir
-00:40:32	Abhishek Kumar:	no noise its fine for us
-00:40:37	Md Sharique:	it's fine now
-00:40:38	Mustafa Kamaal:	Clear sir
-00:40:51	Aman Singh:	example of flight book api
-00:41:44	Ayush Giri:	fastapi
-00:41:44	Prodip Sarkar:	Fast api
-00:41:44	Rakesh Patil:	fastapi
-00:41:46	Ganesh Patil:	Flask
-00:41:46	Md Akhtar:	django
-00:41:47	Anoop Kumar Sharma:	fastapi
-00:41:47	Rakesh Patil:	flask
-00:41:48	ashiq s:	fastapi
-00:41:48	prabhat kumar:	flask
-00:41:50	kartik mohindru:	flask?
-00:41:51	P Gautham Pai:	flask
-00:41:51	NIHAL BAILUR:	Fast api
-00:41:52	DEBKUMAR SINGHA ROY:	flask
-00:41:52	Santanu Haldar:	flask
-00:41:52	prabhat kumar:	fastapi
-00:41:52	Saiyam jain:	fastapi
-00:41:53	P Gautham Pai:	fast api
-00:41:53	Supreeth Shetty:	flask django fasapi
-00:41:56	Saiyam jain:	flask
-00:41:59	DEBKUMAR SINGHA ROY:	fast API
-00:42:26	GALLA VENKAT:	what is the meaning of framework?it's a template riht?
-00:42:55	Vijay Gurung:	in interview some asked Fast API is not enough you should know Django?
-00:44:35	navneet kumar:	what is fas api
-00:44:39	Rakesh Patil:	patch
-00:44:41	navneet kumar:	fast api
-00:45:11	Manish D:	its a library to create api
-00:46:51	Prodip Sarkar:	done
-00:46:55	Vaibhav Yaramwar:	Done
-00:46:58	Shivam Makwana:	done
-00:47:01	Avinash Adsare:	done
-00:47:02	sudhanshu kumar:	pip install fastapi
-00:47:02	Armaan Shaikh:	done
-00:47:03	Syed Waquaruddin:	done
-00:47:26	sudhanshu kumar:	pip install uvicorn
-00:47:37	Shuvam Boxi:	done
-00:47:39	Anoop Kumar Sharma:	done
-00:47:39	Joe Wilson:	yes
-00:47:42	Dr Girish Supekar:	done
-00:47:43	Shivam Makwana:	done
-00:47:43	Rameshkumar Sellamuthu:	why is uvicorn
-00:47:43	Shadiya PP:	yes
-00:47:44	ashiq s:	done
-00:47:44	Syed Waquaruddin:	done
-00:47:46	Priyanka Kamble:	done
-00:47:46	Ganesh Patil:	yes
-00:47:46	Manish D:	-Could not find a version that satisfies the requirement uvcorn (from versions: none
-00:47:48	Kaushal Kumar:	yes
-00:47:50	Aman Singh:	pip install uvcornERROR: Could not find a version that satisfies the requirement uvcorn (from versions: none)ERROR: No matching distribution found for uvcorn
-00:47:55	Prodip Sarkar:	done
-00:48:05	Manmit Seth:	what is fast api
-00:48:11	Aman Singh:	oh sorry
-00:48:13	Prodip Sarkar:	framework
-00:48:15	Manish D:	done
-00:48:22	shilpi agarwal:	installing
-00:48:23	kartik mohindru:	can you please repeat uvicorn's significance?
-00:48:24	Rameshkumar Sellamuthu:	fastapi just formulate the api url?
-00:48:29	Md Sharique:	WARNING: The script uvicorn.exe is installed in 'C:\Users\Sharique\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\Scripts' which is not on PATH.  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
-00:48:51	Md Sharique:	it worked but through warning as well
-00:49:00	Arunava Nag:	so uvicorn is to publish the API ?
-00:49:05	Vijay Gurung:	Attention all we need - NLP
-00:51:13	Prodip Sarkar:	Environment check Sir
-00:51:17	Aman Singh:	different env
-00:51:24	mohit sanger:	directory
-00:51:24	mukesh kumar:	how to create test.py file'
-00:52:55	Anoop Kumar Sharma:	create a new file in VS Code and name it as test.py :)
-00:53:06	Ganesh Sahu:	what is the use of FastAPI in this program
-00:53:36	Arunava Nag:	superb .. now I think u will use uvicorn to expose
-00:54:37	Arunava Nag:	FASTAPI is the class from library fastapi. correct?
-00:54:51	Vijay Gurung:	@app means remotely we can acccess
-00:55:40	Santanu Haldar:	sir how to turn on auto complete ?
-00:55:43	Abhrajit Pal:	yes
-00:55:43	Syed Waquaruddin:	yes
-00:55:43	Anoop Kumar Sharma:	yes
-00:55:44	Armaan Shaikh:	s
-00:55:44	Saiyam jain:	yes
-00:55:44	Avinash Adsare:	yes
-00:55:46	Vaibhav Yaramwar:	yes
-00:55:46	Shivam Makwana:	yes
-00:55:46	Kaushal Kumar:	yes'
-00:55:47	Prodip Sarkar:	yes
-00:55:47	Siddhartha Borpuzari:	yes
-00:55:47	Dr Girish Supekar:	Yes
-00:55:48	anil chalumuri:	yes sir
-00:55:49	Rajkiran Keer:	s
-00:55:51	Ashish singh:	yes
-00:55:51	Gopi Krishna Pujari:	yes
-00:55:52	Anoop P:	yes
-00:55:52	Kunal Das:	👍
-00:55:52	Lucky Agrawal:	yes
-00:55:52	Manish D:	yes
-00:55:52	Joe Wilson:	yeah
-00:55:52	Ganesh Patil:	yes
-00:55:52	Santanu Haldar:	yes
-00:55:58	Piyush Nandan:	yes
-00:55:58	Ritesh Kumar:	Yes sir
-00:56:00	Gauhar Ali Ali:	yes
-00:56:04	jubayer hussain:	Is it rest api
-00:56:07	Anirudha Mulgund:	yes
-00:56:18	Arunava Nag:	so all functions below app.get will b exposed??
-00:56:39	Selva Jeyaseelan:	NameError: name 'app' is not defined. I am getting this error
-00:57:00	Abhisheek Dutta:	I am also getting the same error.
-00:57:05	Vijay Gurung:	sir we can create requirement.txt and install in one go all these installation
-00:57:20	Md Sharique:	it thoughs error
-00:57:23	Md Sharique:	WARNING: Retrying (Retry(total=4, connect=None, re=None)) after connection broken by 'ReadTimeoutErrpypi.org', port=443): Read timed out. (read timeouCollecting fastapi  Using cached fastapi-0.116.1-py3-none-any.whl.meWARNING: Retrying (Retry(total=4, connect=None, re=None)) after connection broken by 'ReadTimeoutErrpypi.org', port=443): Read timed out. (read timeou
-00:57:49	Kesava saisriram Panathula:	from fastapi import FastAPIModuleNotFoundError: No module named 'fastapi'
-00:57:57	Selva Jeyaseelan:	ERROR:    Error loading ASGI app. Attribute "app" not found in module "test"
-00:58:01	Prashant Rai:	Error loading ASGI app. Attribute "app" not found in module "test".
-00:58:06	Prashant Rai:	this error i facing
-00:58:15	Ajit Sahoo:	sir please repeat once again
-00:58:17	hemant gupta:	ERROR:    Error loading ASGI app. Attribute "app" not found in module "test".
-00:58:44	Mustafa Kamaal:	ERROR:    Error loading ASGI app. Attribute "app" not found in module "test".
-00:58:48	Avinash Adsare:	eroor occured
-00:58:52	Avinash Adsare:	ERROR
-00:58:56	Avinash Adsare:	Eroor
-00:59:24	Vinay Singh:	INFO:     Will watch for changes in these directories: ['/Users/vinaypratapsingh/Learning']
-INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
-INFO:     Started reloader process [60108] using StatReload
-ERROR:    Error loading ASGI app. Attribute "app" not found in module "test".
-clear
-00:59:29	Gauhar Ali Ali:	Use unicorn for error
-00:59:38	Gauhar Ali Ali:	Not uvcorn
-00:59:39	Satish Kawale:	how to keep it running all the time via Vs code
-00:59:47	Rajesh Sharma:	/ is path of the function
-01:00:00	Ganesh Sahu:	uvicorn : The term 'uvicorn' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.At line:1 char:1+ uvicorn test:app --reload+ ~~~~~~~    + CategoryInfo          : ObjectNotFound: (uvicorn:String) [], CommandNotFoundException    + FullyQualifiedErrorId : CommandNotFoundException
-01:00:05	Mustafa Kamaal:	Sir after this give us 5 min to practically try this ourselves. Don’t want to miss your explanation while trying to parallelly
-01:00:07	Kaushal Kumar:	yes
-01:00:13	Mustafa Kamaal:	Sir after this give us 5 min to practically try this ourselves. Don’t want to miss your explanation while trying to parallelly
-01:00:54	Kaushal Kumar:	yes
-01:00:55	Pundarikaksh Narayan Tripathi:	yes
-01:01:00	Shuvam Boxi:	yes
-01:01:04	Santanu Haldar:	Yes
-01:01:20	Vinay Singh:	INFO:     Will watch for changes in these directories: ['/Users/vinaypratapsingh/Learning']
-INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
-INFO:     Started reloader process [60108] using StatReload
-ERROR:    Error loading ASGI app. Attribute "app" not found in module "test".
-clear
-01:01:33	Anoop Kumar Sharma:	type conversion required
-01:01:50	Santanu Haldar:	45?
-01:01:53	Shuvam Boxi:	string
-01:01:55	kushalappa BE:	str
-01:01:56	Dhinesh Palanisamy:	string
-01:01:59	Saiyam jain:	appended due to string
-01:01:59	Abhisheek Dutta:	string
-01:02:03	Armaan Shaikh:	before running save the test whoever gtting module error
-01:02:08	Shuvam Boxi:	We have to do type casting
-01:02:10	Dhinesh Palanisamy:	int(a)+int(b)
-01:02:13	Anoop Kumar Sharma:	Int()
-01:02:18	Saranya Sittrarasu:	What is swagger url? Is it url which lists all the methods exposed in the address ? Is it same as endpoint
-01:02:41	Raj Dalsaniya:	Vinay check your FastAPI object where you assign app = FastAPI()
-01:02:55	Ayush Giri:	def add(a:int,b:int):
-01:03:03	Raushan Kumar:	: int
-01:03:12	Manish D:	ERROR:    Error loading ASGI app. Attribute "app" not found in module "test".
-01:03:14	Kiran G:	predefine int
-01:03:41	Raj Dalsaniya:	manish hope you define app = FastAPI()
-01:03:50	Joe Wilson:	yes
-01:03:50	Selva Jeyaseelan:	no
-01:03:51	Selva Jeyaseelan:	error
-01:03:52	Anoop Kumar Sharma:	yes
-01:03:53	Deepak Kumar:	yes
-01:03:54	Saiyam jain:	yes
-01:03:55	Pranav Ranjan:	yes
-01:03:57	Pundarikaksh Narayan Tripathi:	yes
-01:03:59	Avinash Adsare:	uvicorn not recognized
-01:04:18	Raj Dalsaniya:	install uvicorn library
-01:04:40	Anoop Kumar Sharma:	pip install uvicorn
-01:06:16	Rameshkumar Sellamuthu:	why docs#/default always?
-01:06:19	Saiyam jain:	like we have given chat/completion api endpoint
-01:06:47	Asish Mohanty:	Just woow Sudhanshu sir
-01:07:03	naresh kumar:	python -m uvicorn test:app --reload   use this if uvicorn is not recognized
-01:07:23	Manish D:	manish hope you define app = FastAPI()what to change in this?
-01:07:39	kaushal gupta:	http://127.0.0.1:8000/kaush/docs/ in this docs fastapi is not coming
-01:07:53	Manish D:	app = FastAPI()is something change in this ?
-01:08:01	Armaan Shaikh:	no
-01:08:09	Manish D:	ERROR:    Error loading ASGI app. Attribute "app" not found in module "test".
-01:08:14	kaushal gupta:	from fastapi import FastAPIapp=FastAPI()@app.get("/kaush")def add(a:int,b:int):    return a+bprint(add(3,4))
-01:08:20	Armaan Shaikh:	save ur  program
-01:08:22	kaushal gupta:	this is code
-01:08:48	Anoop Kumar Sharma:	from fastapi import FastAPIapp = FastAPI()@app.get("/")def add(a:int,b:int):    return a+b
-01:09:16	Joe Wilson:	from fastapi import FastAPIapp = FastAPI()@app.get("/euron/api/add/")def add(a:int,b:int):    return a+bprint(add(2,4))
-01:09:16	Satish Kawale:	without parameters it will give error
-01:09:50	sudhanshu kumar:	http://127.0.0.1:8000/sudhanshu/kumar/xyz?a=4&b=5
-01:10:04	Shadiya PP:	yes
-01:10:13	Dr Girish Supekar:	yes
-01:10:25	Saiyam jain:	working
-01:10:26	Pundarikaksh Narayan Tripathi:	yes
-01:10:28	Manish D:	from fastapi import FastAPIapp = FastAPI()#decorator@app.get("/manish/")def add(a : int,b: int):    return a+bprint(add(6,7))is somthing wrong in this?
-01:10:29	chandra D:	yes
-01:10:35	anil chalumuri:	yes sir
-01:10:40	Manish D:	ERROR:    Error loading ASGI app. Attribute "app" not found in module "test".
-01:10:47	Santanu Haldar:	{"detail":"Not Found"}
-01:11:09	Abhisheek Dutta:	Yes
-01:11:10	Pranav Ranjan:	yes
-01:11:11	Ganesh Patil:	yes
-01:11:11	Veerendra Shukla:	yes
-01:11:12	Dr Girish Supekar:	yes
-01:11:12	Prodip Sarkar:	yes
-01:11:12	Rishabh Singh:	yes
-01:11:13	Sourabh Rasal:	yess
-01:11:14	Sumit Sahoo:	yes
-01:11:15	Avinash Adsare:	no
-01:11:15	jubayer hussain:	no
-01:11:15	Ashish singh:	yes
-01:11:15	Joe Wilson:	yes
-01:11:16	Lucky Agrawal:	yes
-01:11:17	hardik parmar:	YES
-01:11:17	Saiyam jain:	yes
-01:11:20	Prodip Sarkar:	yes
-01:11:21	Rajkiran Keer:	s
-01:11:21	Rishabh Singh:	yes
-01:11:22	jubayer hussain:	no
-01:11:22	Ganesh Patil:	yes
-01:11:23	PAPA BA:	yes
-01:11:23	Santosh Vishwakarma:	yes
-01:11:25	Pranav Ranjan:	yes
-01:11:26	Md Akhtar:	yes
-01:11:26	Fayaz Antapur:	yes
-01:11:26	Prashant Rai:	i face error
-01:11:28	Syed Waquaruddin:	yes
-01:11:32	Ayush Giri:	understood clearly
-01:11:38	Shahid Raza:	? - Query String Seperator
-01:11:39	Avinash Adsare:	faced error solved
-01:11:40	Prashant Rai:	but i understand what you said
-01:11:41	Mustafa Kamaal:	We can solve error in last 2 hours
-01:11:42	Shivam Makwana:	got it
-01:11:44	Avinash Adsare:	please repeat sir
-01:11:45	Deepak Kumar:	it's working for me
-01:11:49	Ashay G:	what is the purpose of uvicorn here ?
-01:11:50	chandra D:	Query params those
-01:11:50	Santosh Vishwakarma:	yes
-01:12:04	Arunava Nag:	each function will have each app name...
-
-suppose we have multiply also then we have to give a new app name
-01:12:06	Arunava Nag:	?
-01:12:08	Saiyam jain:	yes
-01:12:10	Abhisheek Dutta:	Yes, plz
-01:12:10	Lucky Agrawal:	yes
-01:12:11	Shadiya PP:	yes
-01:12:11	mohit sanger:	yes
-01:12:11	Shivam Makwana:	yeah
-01:12:11	Pranav Ranjan:	yes
-01:12:13	Ravikumar Pareet:	yes
-01:12:14	Deepak Kumar:	yes
-01:12:14	Ritesh Kumar:	Yes sir
-01:12:14	Mandar Aarondekar:	yes
-01:12:16	chandra D:	yes
-01:12:16	Nityanand Pandey:	yes
-01:12:19	Anoop Kumar Sharma:	ngrok
-01:12:24	Rajkiran Keer:	yes
-01:12:25	Prashant Rai:	so using API you can give your function access tp world
-01:12:30	Ravikumar Pareet:	yes
-01:12:50	jubayer hussain:	I can’t load browser
-01:13:02	Avinash Adsare:	detail not found
-01:13:29	Shahid Raza:	is it free?
-01:13:55	Saranya Sittrarasu:	What is swagger url? Is it url which lists all the methods exposed in the address ? Is it same as endpoint
-01:14:51	Pundarikaksh Narayan Tripathi:	MS Defender is detecting it as a Trojan
-01:15:01	Priyanka Kamble:	virus detected
-01:15:02	Kiran G:	Virus detected
-01:15:09	Kesava saisriram Panathula:	virus detected
-01:15:12	Mandar Aarondekar:	virus detected
-01:15:16	Aman Singh:	how to choose my own port number?
-01:15:21	kartik mohindru:	ITS NOT GETTING DOWNLOADED
-01:15:23	roja c m:	virus detected
-01:15:57	sudhanshu kumar:	https://755ec9d8e816.ngrok-free.app
-01:16:14	sudhanshu kumar:	https://755ec9d8e816.ngrok-free.app/sudhanshu/kumar/xyz?a=4&b=5
-01:16:23	Rameshkumar Sellamuthu:	ping me the ngrok command
-01:16:26	Rameshkumar Sellamuthu:	i will try
-01:16:36	Fayaz Antapur:	https://7f75fe856e30.ngrok-free.app/fayaz?a=67&b=76
-01:16:44	Satish Kawale:	so its basically doing port forwarding?
-01:16:54	Manish D:	is there virus ditection showing during downloading NFGrok
-01:16:57	Manish D:	?
-01:16:59	Shivam Makwana:	yeah
-01:17:00	Shahid Raza:	ngrok config add-authtoken <token>
-01:17:00	Armaan Shaikh:	so gpt was accessible like this only
-01:17:03	kaushal gupta:	ngrok http:8000 does not work
-01:17:05	Santanu Haldar:	{"detail":"Not Found"}
-01:17:11	Shahid Raza:	do we need token?
-01:17:16	Avinash Adsare:	what is port forwarding
-01:17:20	Rameshkumar Sellamuthu:	give me the ngrok command
-01:17:34	Rajesh Sharma:	what is the diff b/w /docs and /redoc?
-01:17:53	shilpi agarwal:	not able to download ngrock
-01:18:06	Avinash Adsare:	what is port forwarding
-01:18:08	Selva Jeyaseelan:	NameError: name 'app' is not defined
-01:18:09	Aman Singh:	ngrok http 80 --oauth=google --oauth-allow-email=foo@foo.comPaid Features:  ngrok http 80 --url mydomain.com                              # run ngrok with your own custom domainERROR:  authentication failed: Usage of ngrok requires a verified account and authtoken.ERROR:ERROR:  Sign up for an account: https://dashboard.ngrok.com/signupERROR:  Install your authtoken: https://dashboard.ngrok.com/get-started/your-authtokenERROR:ERROR:  ERR_NGROK_4018ERROR:  https://ngrok.com/docs/errors/err_ngrok_4018
-01:18:12	roja c m:	not able to download the ngrok
-01:18:13	mukesh kumar:	not able to download ngrock
-01:18:17	Priyanka Kamble:	virus detected while downloading ngrok
-01:18:31	Avinash Adsare:	got it
-01:18:33	Saiyam jain:	yes got the concept
-01:18:36	Rhumeet Bhatia:	virus detected
-01:18:42	Shahid Raza:	I have one question
-01:18:49	Ganesh Sahu:	please share expose command
-01:18:49	Gopi Krishna Pujari:	yes its clear
-01:19:00	sudhanshu kumar:	https://755ec9d8e816.ngrok-free.app/sudhanshu/kumar/xyz?a=4&b=5
-01:19:02	Selva Jeyaseelan:	I am getting this error: NameError: name 'app' is not defined
-01:19:05	Ganesh Sahu:	yes
-01:19:06	Shahid Raza:	thoda yeh bataeye: ngrok config add-authtoken <token>
-01:19:08	chandra D:	virus detected
-01:19:09	Selva Jeyaseelan:	NameError: name 'app' is not defined
-01:19:11	Md Sharique:	you have to disabled antivirus first
-01:19:17	Shahid Raza:	ok sir...
-01:19:20	Pundarikaksh Narayan Tripathi:	Explain unprocessible entity part briefly again
-01:19:24	RAMESHKUMAR SELLAMUTHU:	ngrok - tunnel local ports to public URLs and inspect trafficUSAGE:  ngrok [command] [flags]COMMANDS:  api             CLI to api.ngrok.com  completion      generates shell completion code for bash or zsh  config          update or migrate ngrok's configuration file  credits         prints author and licensing information  help            help about any command  http            start an HTTP tunnel  service         run and control ngrok as a background service  start           start endpoints in the config file by name  tcp             start a TCP tunnelERROR:  authentication failed: Usage of ngrok requires a verified account and authtoken.ERROR:ERROR:  Sign up for an account: https://dashboard.ngrok.com/signupERROR:  Install your authtoken: https://dashboard.ngrok.com/get-started/your-authtokenERROR:ERROR:  ERR_NGROK_4018ERROR:  https://ngrok.com/docs/errors/err_ngrok_4018ERROR:
-01:19:26	Pundarikaksh Narayan Tripathi:	Please
-01:19:29	RAMESHKUMAR SELLAMUTHU:	I am facing an error
-01:19:38	Abhisheek Dutta:	Yes
-01:19:39	Anoop Kumar Sharma:	make sure you are downloading it from official website :)
-01:19:41	Sarfaraz A:	after installing ngrok what step you performed to expose the url
-01:19:47	Satish Kawale:	does this portforwarding affect our model to increase response time?
-01:19:48	Sam R:	pls tell steps after uvicoen test:app --reload
-01:19:50	Avinash Adsare:	ngrok is available in MS store
-01:19:57	Fayaz Antapur:	am I able to open it do it sir https://7f75fe856e30.ngrok-free.app/fayaz?a=67&b=56
-01:19:57	Arunava Nag:	in py file.. if we have multiple functions , then do we have to define multiple app also..or single will show all available functions
-01:19:57	Prashant Rai:	i still stuck on error in my pc its still not created url
-01:19:57	Sam R:	was stuck due to error
-01:20:07	Rajeev Dubey:	sir mera python code hi nhi run huwa .so unable to do ngrok.
-01:20:12	Prodip Sarkar:	Sir sudhanshu/kumar/xyz this part is api I am correct
-01:20:18	Prodip Sarkar:	Sir sudhanshu/kumar/xyz this part is api I am correct
-01:20:18	Sam R:	pls tell steps after uvicoen test:app --reload
-01:20:18	Mustafa Kamaal:	Using Brew install ngrok not downloading from UI
-01:20:23	Prodip Sarkar:	Sir sudhanshu/kumar/xyz this part is api I am correct
-01:20:25	Md Akhtar:	give code for ngrock in terminal to send api
-01:20:29	Prodip Sarkar:	Sir sudhanshu/kumar/xyz this part is api I am correct
-01:20:43	Prashant Rai:	ngrocks kaise download kaerein ek baar bata dijiye ohir se
-01:20:53	Prodip Sarkar:	Sir sudhanshu/kumar/xyz this part is api I am correct
-01:20:56	Avinash Adsare:	sir instead of 9 , there is detail: not found. what i do
-01:21:48	jubayer hussain:	Get means read information
-01:21:50	Manish D:	I am using postman
-01:21:52	navneet kumar:	what is a\b testing
-01:21:57	jubayer hussain:	Post create
-01:22:02	Rameshkumar Sellamuthu:	it works after api authentication token for ngrock
-01:22:05	ravi teja:	once could you please repeat if you don't mine regarding ngrok
-01:22:25	sudhanshu kumar:	https://www.postman.com/downloads/
-01:22:27	navneet kumar:	what is A\B testing
-01:22:34	Rameshkumar Sellamuthu:	postman allowed in office? why its spreading virus?
-01:22:37	jubayer hussain:	Dose it work the url in post man
-01:22:41	Manish D:	tocken generation and send request via api
-01:22:54	Mustafa Kamaal:	@navneet - A/B testing has nothing to do with our lecture, please don’t ask irrelevant questions
-01:24:20	jubayer hussain:	Where do I get url
-01:25:33	Satish Kawale:	can you elaborate get and post method
-01:25:47	Saranya Sittrarasu:	when someone else is making the api, how the postman user will know which inputs to pass
-01:25:57	Shahid Raza:	it’s necessary to pass same key?
-01:26:03	Rameshkumar Sellamuthu:	ngrok url is not working in postman
-01:26:17	Shahid Raza:	ok thank you
-01:26:22	Avinash Adsare:	sir instead of 9 , there is detail: not found. what i do
-01:26:26	mukesh kumar:	can i access your api HOSTED on postman
-01:26:28	Prodip Sarkar:	Sir sudhanshu/kumar/xyz this part is api I am correct
-01:26:54	mukesh kumar:	can you please share your postman URL
-01:27:07	Avinash Adsare:	python -m uvicorn test:app --reload  . after that what is next step
-01:27:52	Prodip Sarkar:	Can this api access through curl
-01:28:11	Prodip Sarkar:	Ok thank you Sir
-01:29:44	mukesh kumar:	can you please host your api on postman to access
-01:30:13	Sreenivasulu G:	curl is not recognized in my system command prompt do I need to install anything to get access curl command?
-01:30:16	Anil M:	Do we need to configure ngrok authtoken?
-01:31:12	Prodip Sarkar:	yes
-01:31:13	Pundarikaksh Narayan Tripathi:	yes
-01:31:13	Anoop Kumar Sharma:	yes
-01:31:16	Abhisheek Dutta:	yes
-01:31:19	mohit sanger:	yes
-01:33:06	Sarfaraz A:	yes
-01:33:06	Abhisheek Dutta:	Yes
-01:33:07	Pundarikaksh Narayan Tripathi:	yes
-01:33:08	Prodip Sarkar:	yes
-01:33:08	Abhrajit Pal:	yes
-01:33:09	chandra D:	yes
-01:33:14	Challagundla Sreenivasulu:	YES
-01:33:14	Ashish singh:	yes
-01:33:14	Shivam Makwana:	yeah
-01:33:15	Joe Wilson:	yes
-01:33:16	Gopi Krishna Pujari:	yes
-01:33:17	Santanu Haldar:	50%
-01:33:21	vishal khokar:	yes
-01:33:21	Ritesh Kumar:	Yes sir
-01:33:24	Pranav Ranjan:	yes
-01:33:28	Anoop Kumar Sharma:	yes
-01:33:31	Veerendra Shukla:	yes
-01:33:32	PAPA BA:	yes
-01:33:33	Saiyam jain:	yes 100%
-01:33:34	Rajkiran Keer:	s
-01:33:36	Mahender Singh:	get= select in sql  post =insert in sql
-01:33:38	Prodip Sarkar:	200%
-01:33:40	Rameshkumar Sellamuthu:	how do we secure the value on the url
-01:33:49	Rishabh Singh:	yeah
-01:33:50	Prodip Sarkar:	masking
-01:34:01	Prodip Sarkar:	Use ramesh
-01:35:39	Pundarikaksh Narayan Tripathi:	done
-01:35:43	Prashant Rai:	facing error
-01:37:02	sudhanshu kumar:	@app.post("/subtract")def subtract(a:int,b:int):    return a-b
-01:39:58	Pundarikaksh Narayan Tripathi:	yes
-01:39:58	Abhisheek Dutta:	Yes
-01:39:58	Shivam Makwana:	yeh
-01:39:59	Veerendra Shukla:	yes
-01:40:00	Anoop Kumar Sharma:	yes
-01:40:01	Prodip Sarkar:	perfect
-01:40:02	Sarfaraz A:	because function is expecting post information a and b
-01:40:02	Vinay Singh:	yes
-01:40:03	Vaibhav Yaramwar:	yes
-01:40:04	Gopi Krishna Pujari:	yes
-01:40:36	chandra D:	yes
-01:41:05	Anoop Kumar Sharma:	yes
-01:41:05	Sarfaraz A:	yes
-01:41:06	Syed Waquaruddin:	yes
-01:41:07	Shuvam Boxi:	yes
-01:41:07	Shivam Makwana:	yes
-01:41:07	Abhisheek Dutta:	Yes
-01:41:07	Vaibhav Yaramwar:	yes
-01:41:08	Ritesh Kumar:	Yes sir
-01:41:09	Joe Wilson:	yeah
-01:41:10	Priyanka Kamble:	yes
-01:42:08	sudhanshu kumar:	{    "a":6,    "b":2}
-01:42:48	Shahid Raza:	you need to change you method as data
-01:42:56	Shahid Raza:	def subtract_endpoint(data: dict):
-    a = data.get("a")
-    b = data.get("b")
-    if a is None or b is None:
-        return {"error": "Both 'a' and 'b' are required"}
-    return {"result": subtract_numbers(a, b)}
-01:43:09	Md Akhtar:	string
-01:43:15	Akhtar Nadeem:	intefer
-01:43:19	Anoop Kumar Sharma:	application/json
-01:43:20	Shewan Dagne:	my_dict = {    "a": 6,    "b": 2}
-01:43:23	Akhtar Nadeem:	Data type
-01:43:32	Mustafa Kamaal:	Can you check headers?
-01:43:35	Shahid Raza:	we may need to change teh code sir...
-01:43:59	Satish Kawale:	body is right
-01:44:03	Satish Kawale:	check with function once
-01:44:06	satish kumar:	?
-01:44:07	Mustafa Kamaal:	Can you use chatgpt to find the issue? We can also learn how to use ai to solve issues
-01:44:24	Md Akhtar:	delete string
-01:44:38	Shewan Dagne:	header define, I think
-01:44:40	Rameshkumar Sellamuthu:	post means just post the data?
-01:44:42	roja c m:	can anyone ping me the command to expose the url in the ngrok
-01:44:46	Mahender Singh:	content type ?
-01:44:47	Rameshkumar Sellamuthu:	not response?
-01:44:55	Mahender Singh:	content type
-01:45:08	Mahender Singh:	header
-01:45:10	Anoop Kumar Sharma:	should be application/json
-01:45:17	Shambhu jha:	fastapi accepts query parameter but we are sending json so failing.
-01:45:31	Shahid Raza:	it’s going as body so we need to accept has body not as parater
-01:45:32	Aman Singh:	a is text there
-01:45:38	Aman Singh:	type of a and b
-01:45:45	Shahid Raza:	@app.post("/subtract")
-def subtract_endpoint(data: dict):
-    a = data.get("a")
-    b = data.get("b")
-    if a is None or b is None:
-        return {"error": "Both 'a' and 'b' are required"}
-    return {"result": subtract_numbers(a, b)}
-01:45:53	Shahid Raza:	@app.post("/subtract")
-def subtract_endpoint(data: dict):
-    a = data.get("a")
-    b = data.get("b")
-    if a is None or b is None:
-        return {"error": "Both 'a' and 'b' are required"}
-    return {"result": subtract_numbers(a, b)}
-01:45:59	Ganesh Sahu:	print will be different function
-01:46:00	P Gautham Pai:	code makes a and b query params (because they’re plain function args). You’re sending a JSON body, so FastAPI says they’re “missing” from the query → 422.
-01:46:01	Aman Singh:	type of a is text in body
-01:46:09	Shambhu jha:	from fastapi import FastAPI
-from pydantic import BaseModel
-
-app = FastAPI()
-
-class Numbers(BaseModel):
-    a: int
-    b: int
-
-@app.post("/subtract")
-def subtract(numbers: Numbers):
-    return {"result": numbers.a - numbers.b}
-01:46:43	Shewan Dagne:	{    "type": "location",  # or whatever type is expected    "a": 6,    "b": 2}
-01:47:08	Prodip Sarkar:	from pydantic import BaseModel
-
-class Numbers(BaseModel):
-    a: int
-    b: int
-
-@app.post("/substract")
-def substract(numbers: Numbers):
-    return {"result": numbers.a - numbers.b}
-01:47:21	Satish Kawale:	instead of calling local host can you try with
-01:47:21	Satish Kawale:	numbers live
-01:47:22	Satish Kawale:	192.62.2 this type of api
-01:47:25	chandra D:	In the header we should pass content type = application/json
-01:47:28	Ayush Giri:	from fastapi import FastAPI, Body
-
-app = FastAPI()
-
-@app.post("/post_values/simple_addition")
-def add(a: int = Body(...), b: int = Body(...)):
-    return {"result": a + b}
-
-I think passing the Body as the function param should work
-01:48:05	Astajyoti Behera:	from fastapi import FastAPIfrom pydantic import BaseModelapp = FastAPI()class SubtractRequest(BaseModel):    a: int    b: int@app.get("/add")def add(a: int, b: int):    return a + b@app.post("/subtract")def subtract(request: SubtractRequest):    return {"result": request.a - request.b}
-01:48:07	Ashay G:	cna we send parameters for get only
-01:48:49	Rameshkumar Sellamuthu:	what is the ude of pydantic?
-01:48:53	Rameshkumar Sellamuthu:	use of
-01:49:02	Rajkiran Keer:	curl -X POST "http://127.0.0.1:8000/sub?a=5&b=2" -H "accept: application/json" -d ""
-01:52:30	muhammad arslan:	then what is difference in body and query parameter??
-01:52:33	sudhanshu kumar:	from fastapi import FastAPIfrom pydantic import BaseModelapp = FastAPI()@app.get("/sudhanshu/kumar/xyz")def add(a:int,b:int):    return a+bclass subtractmodel(BaseModel):    a: int    b: intdef subtract(a:int,b:int):    return a-b@app.post("/subtract")def subtract_numbers(model: subtractmodel):    return subtract(model.a, model.b)print(add(3,4))
-01:53:10	muhammad arslan:	then what is difference in body and query parameter??
-01:54:00	Santosh Vishwakarma:	subtract(a:int,b:int)  here also we are doing validation right?
-01:54:07	Abhisheek Dutta:	Yes
-01:54:09	vishal khokar:	YES
-01:54:11	Mandar Aarondekar:	yes
-01:54:13	Anoop Kumar Sharma:	yes
-01:54:14	Rakesh Patil:	yes
-01:54:15	muhammad arslan:	then what is difference in body and query parameter??
-01:54:16	Challagundla Sreenivasulu:	yeah
-01:54:20	Kaushal Kumar:	yes
-01:54:23	Pundarikaksh Narayan Tripathi:	please show the code again
-01:54:40	jubayer hussain:	Curl is old model why do we need to learn
-01:54:47	Saiyam jain:	class subtractModel(BaseModel):    a: int    b: int         def sub(a:int,b:int):    return a-b@app.post("/subtract")def subtract_numbers(model : subtractModel):    return sub(model.a,model.b)
-01:54:48	Prodip Sarkar:	yes
-01:54:48	shilpi agarwal:	yes
-01:54:49	Armaan Shaikh:	s
-01:54:51	Ganesh Sahu:	yes
-01:54:53	Pranav Ranjan:	yes
-01:54:54	Rishabh Singh:	yes
-01:54:54	Prodip Sarkar:	Now working
-01:54:55	Saiyam jain:	yes
-01:54:55	Joe Wilson:	yes
-01:56:07	Shambhu jha:	subtract(a: int, b: int) --> this is passing value in the query parameter format which is not allowed for json sort of body to pass in the postman.
-01:56:27	Shuvam Boxi:	Double quote
-01:56:33	Shivam Makwana:	string ?
-01:56:54	Shambhu jha:	double quotes
-01:57:14	Ashay G:	json invalid
-01:57:15	prabhat kumar:	'POST'
-01:57:17	Rajkiran Keer:	curl -X POST "http://127.0.0.1:8000/subtract" -H "accept: application/json" -H "Content-Type: application/json" -d "{\"a\": 5, \"b\": 3}"
-01:57:48	sudhanshu kumar:	curl -X POST "http://localhost:8000/subtract"  -H "Content-Type: application/json" -d "{\"a\":3,\"b\":2}"
-01:57:58	Shambhu jha:	escape charater*
-01:58:01	Sarfaraz A:	how you passing data from postman
-01:58:14	Anoop Kumar Sharma:	\ for new line or for escape sequence for " quotes?
-01:58:27	Vinoth Karunakaran:	Will authentication also be covered?
-01:58:31	muhammad arslan:	then what is difference in body and query parameter??
-01:58:55	Shambhu jha:	thanks
-01:59:32	mukesh kumar:	can this api , i can access in office or any firewall will restrict ?
-01:59:56	Raghu Teja:	what is the command to stop the uvicorn?
-02:00:07	Md Akhtar:	Ctrl s
-02:00:08	Pranav Ranjan:	ctrl+c
-02:00:34	Shambhu jha:	can i see how did you created fastapi for speech to text?
-02:01:43	Shuvam Boxi:	Yes
-02:01:44	Mandar Aarondekar:	yes
-02:01:44	shilpi agarwal:	yes
-02:01:45	Anoop Kumar Sharma:	yes
-02:01:45	Supreeth Shetty:	yes sir
-02:01:46	saket kumar:	yes
-02:01:46	Syed Waquaruddin:	yes
-02:01:48	Piyush Nandan:	yes
-02:01:48	Joe Wilson:	yes
-02:01:50	Anoop P:	yes
-02:01:51	jubayer hussain:	Api testing
-02:01:52	Bhavesh S:	yes
-02:01:53	satish kumar:	most detailed explanation by far by you sir...In any of your course from ineuron and pwskills
-02:01:53	Ritesh Kumar:	Yes sir
-02:01:53	Sarfaraz A:	yes
-02:01:54	anil chalumuri:	yes
-02:01:56	Rhumeet Bhatia:	yes
-02:01:57	Prodip Sarkar:	clear
-02:01:57	Lucky Agrawal:	yes
-02:01:57	Abhrajit Pal:	yes
-02:01:58	Azmathulla R:	yup
-02:01:58	Anu L Sasidharan:	Yes
-02:01:58	Ashish singh:	yes
-02:01:59	Prodip Sarkar:	yess
-02:02:00	Sumit Sahoo:	yes
-02:02:01	Md Sharique:	yes yes
-02:02:02	Praveen Maurya:	Yes.. will do some more practice
-02:02:07	Gopi Krishna Pujari:	clear sir
-02:02:10	Pundarikaksh Narayan Tripathi:	yes but need some simple docs or notes too
-02:02:13	Ganesh Sahu:	patch ?
-02:02:22	saket kumar:	🫡yes
-02:02:26	navneet kumar:	how this is api
-02:02:28	Rishabh Singh:	Understand the logic but confidence is little low sir
-02:02:37	Siddhartha Borpuzari:	yes...but needs to practise today from the recordings
-02:02:37	Sonu Kumar:	how to use authentication and authorization
-02:02:41	Anil M:	its clear
-02:02:41	satish kumar:	most detailed explanation by far by you sir...In any of your course from ineuron and pwskills.
-02:02:51	Pundarikaksh Narayan Tripathi:	okay assignment then
-02:02:58	jubayer hussain:	yes
-02:03:02	Manish G:	main difference between get n post
-02:03:03	Pundarikaksh Narayan Tripathi:	like creating APIs
-02:03:04	Rishabh Singh:	Understood the logic but confidence is little low sir
-02:03:04	Saiyam jain:	can we extend this class ?
-02:03:06	jubayer hussain:	Your are right
-02:03:08	Veerendra Shukla:	That is very true
-02:03:08	Saiyam jain:	loved the class
-02:03:08	Shahid Raza:	Ask them to use Euri to learn in detail.
-02:03:14	Chirag Tyagi:	Understand the topic here......docs and notes you can generate using chatgpt.. just put the topic in chatgpt you will get the notes.
-02:03:17	Saiyam jain:	😁
-02:03:27	Sonu Kumar:	how to use authentication and authorization
-02:03:32	Arunava Nag:	for POST :: pydantic function is father or wrapper of the original function we create.. CORRECT ?
-02:03:37	Md Sharique:	thanks
-02:03:48	Ganesh Sahu:	yes we can finish put and delete
-02:03:49	Sarfaraz A:	Yes able post through postman
-02:04:00	Prodip Sarkar:	Any assingnmnent
-02:04:08	Pundarikaksh Narayan Tripathi:	I'll practice it on my own now, thanks for the lecture
-02:04:41	Rameshkumar Sellamuthu:	what is the use of pydantic package sir
-02:04:45	Anoop Kumar Sharma:	How do we generally host APIs on production server? Just steps.. I am from .Net background and I can do it on IIS generally. But how to host python APIs?
-02:04:49	Manish G:	thanks sir
-02:04:49	GALI MALLIKARJUNA REDDY:	tmrw agenda
-02:05:06	Harshit Asija:	Is there any URL length limitation as well?curl -X POST "URL"?
-02:05:06	Prabhat Jena:	pydantic used for  api validation
-02:05:08	Prashant Rai:	can you help me i am facing someerror
-02:05:12	Md Akhtar:	for post api swagger was running  but it got failed in postman . Is everytime we need to pydantic to run in postman.
-02:05:20	Challagundla Sreenivasulu:	Hi Sudhansu..I just started today..to do this what all I need to install..VS,POSTMAN,ngrok what else
-02:05:26	Sarfaraz A:	everything able to practice except exposing URL through ngrok.. may be need to rewatch
-02:05:29	Saranya Sittrarasu:	if you can help us with setting authentication for the function that is exposed,it would be helpful
-02:05:54	Prodip Sarkar:	Great Sir
-02:06:09	mukesh kumar:	pace is fast, but need to follow thing specially when we get an error. by that time fixing my error few part got skipped, which in-turn can't do in my system and only we can follow. give some pause for 1-2 min to follow along with you inbetween whereever any software installation likewise nsrock i was not able to do.
-02:08:21	Sarfaraz A:	multiply completed...
-02:08:28	Prashant Rai:	i missed ngrock part
-02:08:45	Prashant Rai:	how to install into system ngrock and how to use t
-02:09:38	navneet kumar:	is ther any diff fast api and normal api
-02:09:54	archit Mehrotra:	zoom unable to find assignment
-02:10:03	Prodip Sarkar:	I don’t have doubt
-02:10:09	Saiyam jain:	got it from group
-02:10:16	sudhanshu kumar:	Multiplication API with ValidationObjective:Create a FastAPI application that exposes a POST endpoint to multiply two numbers and return the result. Ensure that the input is validated and both a and b should be integers.Instructions:1.	Create a FastAPI application:o	Define a POST endpoint at /multiply to accept two numbers, a and b.o	Validate that both a and b are integers using Pydantic models.2.	Test the API using:o	Postman (send JSON body with a and b).o	curl to test the endpoint with JSON data.o	Python requests for programmatic testing.3.	Bonus: Return an error message if the input values are not integers.
-02:10:23	sudhanshu kumar:	Simple Calculator APIObjective:Create a FastAPI application that acts as a simple calculator and exposes endpoints to handle addition, subtraction, multiplication, and division.Instructions:1.	Create a FastAPI application:o	Expose a POST method at /calculator to handle four operations: addition, subtraction, multiplication, and division.o	Accept two numbers and an operation type (add, subtract, multiply, divide) as JSON input.o	Return the result of the operation.2.	Test the API using:o	Postman to test the calculator API.o	curl to test each operation (addition, subtraction, multiplication, and division).o	Python requests to send requests and receive responses.3.	Bonus: Handle division by zero gracefully and return a custom error message.
-02:10:37	sudhanshu kumar:	User Registration APIObjective:Create a FastAPI application that exposes a POST endpoint to register a user. The API should accept a JSON body with a username, email, and password. The application should validate the input, ensuring the email is in the correct format and the password has at least 8 characters.Instructions:1.	Create a FastAPI application:o	Define a POST method at /register to accept the user's username, email, and password in JSON format.o	Use Pydantic validation to ensure the email is a valid email format and the password has a minimum length of 8 characters.o	Return a success message if registration is successful.2.	Test the API using:o	Postman to register a new user.o	curl to test the registration endpoint with valid and invalid data.o	Python requests to test user registration programmatically.3.	Bonus: Store the registered users in memory (for the sake of the assignment) and return the list of registered users when requested.
-02:10:49	Ajsal Mohammed T S:	can you please attach in the resources?
-02:10:51	Mustafa Kamaal:	By when should we finish this assignment?
-02:10:52	mukesh kumar:	one feedback sir, on recorded session. if possible can you minimise your live video or make it smaller.
-02:11:28	Veerendra Shukla:	yep
-02:11:29	P Gautham Pai:	Sudahanshu, can u talk a little on that scrible ink app and the tool you use to create the diagrams/explanations?
-02:11:39	P Gautham Pai:	wanted to use in my org..
-02:11:48	Ganesh Sahu:	yes, lecture and Q & A session should be in the different
-02:11:49	P Gautham Pai:	the pen used?
-02:11:55	Armaan Shaikh:	sir you are technically a roaster
-02:11:55	kushalappa BE:	Just to verify, We still are in the  "Intro to Gen AI" part of the syllabus right?
-02:12:02	mukesh kumar:	From me to everyone 11:10 AMone feedback sir, on recorded session. if possible can you minimise your live video or make it smaller.
-02:12:12	Sam R:	WhatsApp grp link pls?
-02:12:17	Veerendra Shukla:	Thanks!
-02:12:21	Md Akhtar:	for post api swagger was running  but it got failed in postman . Is everytime we need to pydantic to run in postman.
-02:12:30	Anu L Sasidharan:	Thank you sir. See you tomorrow.
-02:12:38	Sarfaraz A:	yes.. liked it..Sir... Topic for tomorrow0
-02:12:40	navneet kumar:	tomorrow what topic will discuss
-02:12:41	Abhrajit Pal:	yes
-02:12:41	Veerendra Shukla:	Yes
-02:12:41	Saiyam jain:	yes
-02:12:41	Avinash Adsare:	yes
-02:12:41	Mandar Aarondekar:	yes
-02:12:42	Prodip Sarkar:	yesssss
-02:12:43	Manish G:	yes
-02:12:45	Anu L Sasidharan:	yes
-02:12:46	Mojahid Ansari:	yes sir
-02:12:46	Rishabh Singh:	yes
-02:12:46	chidi henry:	yes
-02:12:46	Anoop Kumar Sharma:	yes
-02:12:46	Asish Kumar Nayak:	yes
-02:12:46	Galla Venkat:	yes
-02:12:47	Shivam Makwana:	yup
-02:12:47	Sarfaraz A:	90%
-02:12:47	Praveen Maurya:	yes
-02:12:48	Rhumeet Bhatia:	yes
-02:12:48	Prashant Rai:	help me sir i dont understand how to use ngrocks
-02:12:51	Joe Wilson:	yes
-02:12:51	Satish Kawale:	totally understand
-02:12:51	anil chalumuri:	yes
-02:12:52	Swapnil Kale:	yes
-02:12:52	Prodip Sarkar:	99
-02:12:56	Ganesh Patil:	yes
-02:12:58	Gopi Krishna Pujari:	Very clear. Thank you Sir
-02:13:00	Mustafa Kamaal:	By when should we finish the assignment???
-02:13:01	Bhavesh S:	Thanks sir
-02:13:05	Harshal Kulkarni:	Yes 90%
-02:13:09	Prabhat Jena:	We will more clear, when we go through recording
-02:13:09	Abhrajit Pal:	what about patch, head and options
-02:13:16	Shuvam Boxi:	Yes easiest learning style to make us understand how api works in python . Its amazing sir
-02:13:20	Ritesh Kumar:	sir what is curl ?
-02:13:30	Rajesh Sharma:	@ritesh client url
-02:13:39	Rajesh Sharma:	mean client ka address
-02:13:40	Sam R:	where I can find WhatsApp grp url?
-02:14:03	Siddhartha Borpuzari:	in my system I had to run python -m uvicorn test:app --reload...little different from the commands that was shown in the class
-02:14:11	Rakesh Patil:	fastapi UI Routes bhi cover karo sir
-02:14:17	Galla Venkat:	https://chat.whatsapp.com/Hsvygf9oubjGuPraQaNf02
-02:14:24	Ritesh Kumar:	ok
-02:15:08	Pundarikaksh Narayan Tripathi:	I still can't test it with Postman after adding the Pydantic code. I wanted to share the screenshot, but there's no attachment option in this Zoom meeting.
-02:15:15	Sonu Kumar:	sir ,  will you tech flask also?
-02:15:21	Veerendra Shukla:	yes
-02:15:24	Abhrajit Pal:	yes
-02:15:24	Ritesh Kumar:	Yes sir
-02:15:25	Piyush Nandan:	yes sir
-02:15:26	Sarfaraz A:	yes
-02:15:26	Joe Wilson:	yes
-02:15:26	Shivam Makwana:	yes
-02:15:27	Armaan Shaikh:	s
-02:15:28	Saiyam jain:	yes
-02:15:35	Avinash Adsare:	Absolutely Sir
-02:15:35	Asish Kumar Nayak:	yes, fantastic idea
-02:15:35	Sarfaraz A:	yes.. supurb
-02:15:37	Sam R:	thanks Galla Venkat!
-02:15:40	Mustafa Kamaal:	okay
-02:15:53	Sarfaraz A:	thank you Sir
-02:15:59	Sonu Kumar:	sir ,  will you tech flask also?
-02:16:16	Shahid Raza:	The command python -m uvicorn test:app --reload runs Uvicorn using Python’s module system, while uvicorn test:app --reload runs Uvicorn directly as an installed command.
-
-Key differences:
-
-python -m uvicorn ... ensures you use the Uvicorn installed in your current Python environment, which can help avoid issues if you have multiple Python versions or environments.
-uvicorn ... relies on the uvicorn command being available in your system’s PATH.
-Both commands start your FastAPI app, but python -m uvicorn ... is more reliable if you have environment/path issues.
-02:16:16	Pundarikaksh Narayan Tripathi:	So I'm sending the error screenshot in the whatsapp group
-02:16:21	Md Akhtar:	for post api swagger was running  but it got failed in postman . Is everytime we need to pydantic to run in postman.
-02:16:29	GALI MALLIKARJUNA REDDY:	tmrw agenda
-02:16:32	Arunava Nag:	for POST :: pydantic function is father or wrapper of the original function we create.. CORRECT ?
-
-can we assign default values
-02:16:36	Galla Venkat:	can you through some light on gpt new model?
-02:17:46	Satish Kawale:	My personal experience: I was in the ineuron data science November batch, and I didn't complete the assignments from the ML part, which resulted in me losing two years of being ahead in the AI/ML industry.
-02:21:18	Sarfaraz A:	use .\before directory
-02:22:40	P Gautham Pai:	go inside the /API_EXAMPLE folder and run again
-02:22:57	Siddhartha Borpuzari:	i had the same problem
-02:23:02	Armaan Shaikh:	sir after genai open api example folder
-02:23:10	P Gautham Pai:	go inside the /API_EXAMPLE folder and run again
-02:23:26	Sarfaraz A:	Cd API_EXAMPLE
-02:23:35	Sarfaraz A:	go inside the folder
-02:23:38	Asish Kumar Nayak:	cd API_Exampleuvicorn test:app --reload
-02:23:49	Ashay G:	ii think it is considering 'C' before : as module
-02:24:01	Siddhartha Borpuzari:	python -m uvicorn test:app --reload this worked for me
-02:24:02	Rameshkumar Sellamuthu:	try with command prompt terminal
-02:24:16	Rameshkumar Sellamuthu:	instead of powershell
-02:24:27	Ashay G:	is that ":" after C is an issue ?
-02:27:08	Pundarikaksh Narayan Tripathi:	git bash gives you a linux terminal experience if you're on windows
-02:27:13	Pundarikaksh Narayan Tripathi:	You can also use it
-02:27:14	Rameshkumar Sellamuthu:	Hi sir, i am from us, please allow me to ask queries before leaving
-02:29:21	Rameshkumar Sellamuthu:	i am from usa, please allow me to ask queries before leaving.its late
-02:29:32	Pundarikaksh Narayan Tripathi:	My issue was resolved in the group chat, so I'll be leaving now. Thanks for the session.
-02:29:47	Asish Kumar Nayak:	test not py
-02:29:58	Ravikumar Pareet:	It should be test:app
-02:30:08	Sarfaraz A:	:docs use
-02:30:10	Raj Dalsaniya:	app
-02:30:22	Sarfaraz A:	after the url
-02:30:37	Sarfaraz A:	/docs
-02:31:57	Rameshkumar Sellamuthu:	hi sir, i am connecting from usa, please allow me to ask queries, its late...
-02:32:20	Rajeev Dubey:	yes
-02:34:07	Abhisheek Dutta:	Sir, I am also unable to run the code. Can I share my screen?
-02:34:46	Abhisheek Dutta:	Please allow me to share the screen, if possible.
-02:35:35	Rakesh Patil:	pagination
-02:36:11	ravi teja:	/
-02:36:13	ravi teja:	*
-02:36:31	Asish Kumar Nayak:	who is sharing the screen , go to API_EXAMPLE by cd API_EXAMPLE and then try uvicorn test:app --reload
-02:36:45	Rakesh Patil:	(skip: int = Query(0, ge=0), limit: int = Query(10, ge=1))
-02:36:57	Asish Kumar Nayak:	your test.py is in API_EXAMPLE directory.
-02:38:07	Abhisheek Dutta:	I am getting this error- NameError: name 'add' is not defined>>> print(add(3, 4))Traceback (most recent call last):  File "<python-input-10>", line 1, in <module>    print(add(3, 4))          ^^^
-02:38:32	Abhisheek Dutta:	SyntaxError: invalid syntax>>> api.pyTraceback (most recent call last):  File "<python-input-12>", line 1, in <module>    api.py    ^^^
-02:38:53	Supreeth Shetty:	sir thanks for the quick class on API concepts and ita usage, my querry is reagarding my account, i had registred for Aug-2 boot camp, but now its again asking me to subscribe, how ever i had the meeting link so i was able to join, can u please re-direct me to help, i have not joined the WhatsApp group
-02:39:35	Armaan Shaikh:	abhishek import fast api
-02:39:47	Abhisheek Dutta:	Armaan, I did.
-02:39:59	Abhisheek Dutta:	Both fastAPI and Uvicorn
-02:41:35	Supreeth Shetty:	sir thanks for the quick class on API concepts and ita usage, my querry is reagarding my account, i had registred for Aug-2 boot camp, but now its again asking me to subscribe, how ever i had the meeting link so i was able to join, can u please re-direct me to help, i have not joined the WhatsApp group
-02:41:44	Shahid Raza:	So total will be input+output token?
-02:43:01	Supreeth Shetty:	sir thanks for the quick class on API concepts and ita usage, my querry is reagarding my account, i had registred for Aug-2 boot camp, but now its again asking me to subscribe, how ever i had the meeting link so i was able to join, can u please re-direct me to help, i have not joined the WhatsApp group
-02:46:19	Supreeth Shetty:	sir thanks for the quick class on API concepts and ita usage, my querry is reagarding my account, i had registred for Aug-2 boot camp, but now its again asking me to subscribe, how ever i had the meeting link so i was able to join, can u please re-direct me to help, i have not joined the WhatsApp group
-02:50:47	Supreeth Shetty:	sir thanks for the quick class on API concepts and ita usage, my querry is reagarding my account, i had registred for Aug-2 boot camp, but now its again asking me to subscribe, how ever i had the meeting link so i was able to join, can u please re-direct me to help, i have not joined the WhatsApp group
-02:51:17	Abhisheek Dutta:	Sir, I want to share my screen.
-02:51:53	Shahid Raza:	ahaha
-02:52:06	Shahid Raza:	aap sone nahi chahiye sir.. 🙂
-02:58:26	Supreeth Shetty:	i dont have doubt, but have a problem with respect to the registration i want to convert
-02:58:34	Supreeth Shetty:	sir thanks for the quick class on API concepts and ita usage, my querry is reagarding my account, i had registred for Aug-2 boot camp, but now its again asking me to subscribe, how ever i had the meeting link so i was able to join, can u please re-direct me to help, i have not joined the WhatsApp group
-03:01:42	Shahid Raza:	how can we connect local LLM with our application?
-03:04:13	mukesh kumar:	sir wanted to share my screen for nsrock issue
-03:05:26	mukesh kumar:	ngrok*
-03:05:36	Supreeth Shetty:	https://bagapp1056.gar.corp.intel.com:8000/web/service/674989156159314574
-03:05:43	Supreeth Shetty:	sir thanks for the quick class on API concepts and ita usage, my querry is reagarding my account, i had registred for Aug-2 boot camp, but now its again asking me to subscribe, how ever i had the meeting link so i was able to join, can u please re-direct me to help, i have not joined the WhatsApp group
-03:06:16	Shivam Makwana:	sir
-03:06:21	Rameshkumar Sellamuthu:	there is still couple of additional question sir...
-03:06:26	Shivam Makwana:	😂
-03:06:55	Supreeth Shetty:	sir thanks for the quick class on API concepts and ita usage, my querry is reagarding my account, i had registred for Aug-2 boot camp, but now its again asking me to subscribe, how ever i had the meeting link so i was able to join, can u please re-direct me to help, i have not joined the WhatsApp group
-03:07:03	Supreeth Shetty:	sir please help
-03:11:05	Supreeth Shetty:	sudanshu@eron.one
-03:11:09	Supreeth Shetty:	euron*
-03:11:19	sudhanshu kumar:	Sudhanshu@euron.one
-03:13:06	Ganesh Sahu:	What is the issue here :
-03:13:10	Ganesh Sahu:	@app.post("/multiply")def multiply_numbers(model : multiplymodel):        try:            if type(model.a).is_integer and type(model.b).is_integer:                print("inside if")                return multiply(model.a, model.b)            else :                return "invalid input"        except:            print("exception")            return "invalid inouts"
-03:14:07	Supreeth Shetty:	Thanks sir dropping off
-03:14:26	Shahid Raza:	Where is the multiply method?
-03:15:11	Asish Kumar Nayak:	Abhishek, you just save your file and run. I can see you forgot to save the api.py. that's why it gives you "add" is not defined.
-03:21:15	Ganesh Sahu:	def multiply(a: int, b:int):    return a*b
-03:21:31	Ganesh Sahu:	entire code
-03:21:31	Ganesh Sahu:	from fastapi import FastAPIfrom pydantic import BaseModelapp = FastAPI()class multiplymodel(BaseModel):    a: int    b: intdef multiply(a: int, b:int):    return a*b@app.post("/multiply")def multiply_numbers(model : multiplymodel):        try:            if type(model.a).is_integer and type(model.b).is_integer:                print("inside if")                return multiply(model.a, model.b)            else :                return "invalid input"        except:            print("exception")            return "invalid inouts"
-03:26:46	Shahid Raza:	can you try with this? from fastapi import FastAPI
-from pydantic import BaseModel
-
-app = FastAPI()
-
-class multiplymodel(BaseModel):
-    a: int
-    b: int
-
-def multiply(a: int, b:int):
-    return a*b
-
-@app.post("/multiply")
-def multiply_numbers(model : multiplymodel):
-    try:
-        if isinstance(model.a, int) and isinstance(model.b, int):
-            return {"result": multiply(model.a, model.b)}
-        else:
-            return {"error": "invalid input"}
-    except Exception as e:
-        return {"error": f"invalid inputs: {str(e)}"}
-03:40:02	Shahid Raza:	not it’s not appearing...
-04:01:37	Md Sharique:	best wishes
-04:01:40	Rameshkumar Sellamuthu:	Thank you...sir
-04:01:42	Rameshkumar Sellamuthu:	glad you
-04:01:45	Armaan Shaikh:	best wishes
-04:01:47	Aditya Raj:	Thanks
-04:01:57	Armaan Shaikh:	thank you sir v
